@@ -114,7 +114,7 @@
             this.player2Timer = new System.Windows.Forms.Label();
             this.player1Timer = new System.Windows.Forms.Label();
             this.comboBoxPawnPromotion = new System.Windows.Forms.ComboBox();
-            this.label9 = new System.Windows.Forms.Label();
+            this.labelPawnPromotion = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label8
@@ -1467,21 +1467,21 @@
             this.comboBoxPawnPromotion.Size = new System.Drawing.Size(121, 21);
             this.comboBoxPawnPromotion.TabIndex = 151;
             // 
-            // label9
+            // labelPawnPromotion
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(232, 689);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(87, 13);
-            this.label9.TabIndex = 152;
-            this.label9.Text = "Pawn Promotion:";
+            this.labelPawnPromotion.AutoSize = true;
+            this.labelPawnPromotion.Location = new System.Drawing.Point(232, 689);
+            this.labelPawnPromotion.Name = "labelPawnPromotion";
+            this.labelPawnPromotion.Size = new System.Drawing.Size(87, 13);
+            this.labelPawnPromotion.TabIndex = 152;
+            this.labelPawnPromotion.Text = "Pawn Promotion:";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(705, 786);
-            this.Controls.Add(this.label9);
+            this.Controls.Add(this.labelPawnPromotion);
             this.Controls.Add(this.comboBoxPawnPromotion);
             this.Controls.Add(this.player1Timer);
             this.Controls.Add(this.player2Timer);
@@ -1662,7 +1662,7 @@
         private System.Windows.Forms.Label player2Timer;
         private System.Windows.Forms.Label player1Timer;
         private System.Windows.Forms.ComboBox comboBoxPawnPromotion;
-        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label labelPawnPromotion;
     }
 }
 
