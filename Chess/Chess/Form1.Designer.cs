@@ -29,70 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.pictureBoxB8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE8 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH7 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB6 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB5 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxH4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxG4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxF4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxE4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxD4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxC4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxB4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxA4 = new System.Windows.Forms.PictureBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -109,651 +45,71 @@
             this.labelF = new System.Windows.Forms.Label();
             this.labelG = new System.Windows.Forms.Label();
             this.labelH = new System.Windows.Forms.Label();
-            this.buttonRegularAndDraw = new System.Windows.Forms.Button();
-            this.buttonBlitz = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA4)).BeginInit();
+            this.buttonA8 = new System.Windows.Forms.Button();
+            this.buttonB8 = new System.Windows.Forms.Button();
+            this.buttonD8 = new System.Windows.Forms.Button();
+            this.buttonC8 = new System.Windows.Forms.Button();
+            this.buttonF8 = new System.Windows.Forms.Button();
+            this.buttonE8 = new System.Windows.Forms.Button();
+            this.buttonH8 = new System.Windows.Forms.Button();
+            this.buttonG8 = new System.Windows.Forms.Button();
+            this.buttonA7 = new System.Windows.Forms.Button();
+            this.buttonB7 = new System.Windows.Forms.Button();
+            this.buttonC7 = new System.Windows.Forms.Button();
+            this.buttonD7 = new System.Windows.Forms.Button();
+            this.buttonE7 = new System.Windows.Forms.Button();
+            this.buttonF7 = new System.Windows.Forms.Button();
+            this.buttonG7 = new System.Windows.Forms.Button();
+            this.buttonH7 = new System.Windows.Forms.Button();
+            this.buttonA6 = new System.Windows.Forms.Button();
+            this.buttonB6 = new System.Windows.Forms.Button();
+            this.buttonC6 = new System.Windows.Forms.Button();
+            this.buttonD6 = new System.Windows.Forms.Button();
+            this.buttonE6 = new System.Windows.Forms.Button();
+            this.buttonF6 = new System.Windows.Forms.Button();
+            this.buttonG6 = new System.Windows.Forms.Button();
+            this.buttonH6 = new System.Windows.Forms.Button();
+            this.buttonA5 = new System.Windows.Forms.Button();
+            this.buttonB5 = new System.Windows.Forms.Button();
+            this.buttonC5 = new System.Windows.Forms.Button();
+            this.buttonD5 = new System.Windows.Forms.Button();
+            this.buttonE5 = new System.Windows.Forms.Button();
+            this.buttonF5 = new System.Windows.Forms.Button();
+            this.buttonG5 = new System.Windows.Forms.Button();
+            this.buttonH5 = new System.Windows.Forms.Button();
+            this.buttonA4 = new System.Windows.Forms.Button();
+            this.buttonB4 = new System.Windows.Forms.Button();
+            this.buttonC4 = new System.Windows.Forms.Button();
+            this.buttonD4 = new System.Windows.Forms.Button();
+            this.buttonE4 = new System.Windows.Forms.Button();
+            this.buttonF4 = new System.Windows.Forms.Button();
+            this.buttonG4 = new System.Windows.Forms.Button();
+            this.buttonH4 = new System.Windows.Forms.Button();
+            this.buttonA3 = new System.Windows.Forms.Button();
+            this.buttonB3 = new System.Windows.Forms.Button();
+            this.buttonC3 = new System.Windows.Forms.Button();
+            this.buttonD3 = new System.Windows.Forms.Button();
+            this.buttonE3 = new System.Windows.Forms.Button();
+            this.buttonF3 = new System.Windows.Forms.Button();
+            this.buttonG3 = new System.Windows.Forms.Button();
+            this.buttonH3 = new System.Windows.Forms.Button();
+            this.buttonA2 = new System.Windows.Forms.Button();
+            this.buttonB2 = new System.Windows.Forms.Button();
+            this.buttonC2 = new System.Windows.Forms.Button();
+            this.buttonD2 = new System.Windows.Forms.Button();
+            this.buttonE2 = new System.Windows.Forms.Button();
+            this.buttonF2 = new System.Windows.Forms.Button();
+            this.buttonG2 = new System.Windows.Forms.Button();
+            this.buttonH2 = new System.Windows.Forms.Button();
+            this.buttonA1 = new System.Windows.Forms.Button();
+            this.buttonB1 = new System.Windows.Forms.Button();
+            this.buttonC1 = new System.Windows.Forms.Button();
+            this.buttonD1 = new System.Windows.Forms.Button();
+            this.buttonE1 = new System.Windows.Forms.Button();
+            this.buttonF1 = new System.Windows.Forms.Button();
+            this.buttonG1 = new System.Windows.Forms.Button();
+            this.buttonH1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // pictureBoxB8
-            // 
-            this.pictureBoxB8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB8.Image")));
-            this.pictureBoxB8.Location = new System.Drawing.Point(135, 64);
-            this.pictureBoxB8.Name = "pictureBoxB8";
-            this.pictureBoxB8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB8.TabIndex = 2;
-            this.pictureBoxB8.TabStop = false;
-            this.pictureBoxB8.Click += new System.EventHandler(this.pictureBox2_Click);
-            // 
-            // pictureBoxA8
-            // 
-            this.pictureBoxA8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA8.Image")));
-            this.pictureBoxA8.Location = new System.Drawing.Point(65, 64);
-            this.pictureBoxA8.Name = "pictureBoxA8";
-            this.pictureBoxA8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA8.TabIndex = 0;
-            this.pictureBoxA8.TabStop = false;
-            this.pictureBoxA8.Click += new System.EventHandler(this.pictureBoxA8_Click);
-            // 
-            // pictureBoxC8
-            // 
-            this.pictureBoxC8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC8.Image")));
-            this.pictureBoxC8.Location = new System.Drawing.Point(205, 64);
-            this.pictureBoxC8.Name = "pictureBoxC8";
-            this.pictureBoxC8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC8.TabIndex = 3;
-            this.pictureBoxC8.TabStop = false;
-            // 
-            // pictureBoxD8
-            // 
-            this.pictureBoxD8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD8.Image")));
-            this.pictureBoxD8.Location = new System.Drawing.Point(275, 64);
-            this.pictureBoxD8.Name = "pictureBoxD8";
-            this.pictureBoxD8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD8.TabIndex = 4;
-            this.pictureBoxD8.TabStop = false;
-            // 
-            // pictureBoxH8
-            // 
-            this.pictureBoxH8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH8.Image")));
-            this.pictureBoxH8.Location = new System.Drawing.Point(555, 64);
-            this.pictureBoxH8.Name = "pictureBoxH8";
-            this.pictureBoxH8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH8.TabIndex = 8;
-            this.pictureBoxH8.TabStop = false;
-            // 
-            // pictureBoxG8
-            // 
-            this.pictureBoxG8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG8.Image")));
-            this.pictureBoxG8.Location = new System.Drawing.Point(485, 64);
-            this.pictureBoxG8.Name = "pictureBoxG8";
-            this.pictureBoxG8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG8.TabIndex = 7;
-            this.pictureBoxG8.TabStop = false;
-            // 
-            // pictureBoxF8
-            // 
-            this.pictureBoxF8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF8.Image")));
-            this.pictureBoxF8.Location = new System.Drawing.Point(415, 64);
-            this.pictureBoxF8.Name = "pictureBoxF8";
-            this.pictureBoxF8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF8.TabIndex = 6;
-            this.pictureBoxF8.TabStop = false;
-            // 
-            // pictureBoxE8
-            // 
-            this.pictureBoxE8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE8.Image")));
-            this.pictureBoxE8.Location = new System.Drawing.Point(345, 64);
-            this.pictureBoxE8.Name = "pictureBoxE8";
-            this.pictureBoxE8.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE8.TabIndex = 5;
-            this.pictureBoxE8.TabStop = false;
-            // 
-            // pictureBoxA7
-            // 
-            this.pictureBoxA7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA7.Image")));
-            this.pictureBoxA7.Location = new System.Drawing.Point(65, 134);
-            this.pictureBoxA7.Name = "pictureBoxA7";
-            this.pictureBoxA7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA7.TabIndex = 9;
-            this.pictureBoxA7.TabStop = false;
-            // 
-            // pictureBoxB7
-            // 
-            this.pictureBoxB7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB7.Image")));
-            this.pictureBoxB7.Location = new System.Drawing.Point(135, 134);
-            this.pictureBoxB7.Name = "pictureBoxB7";
-            this.pictureBoxB7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB7.TabIndex = 10;
-            this.pictureBoxB7.TabStop = false;
-            // 
-            // pictureBoxC7
-            // 
-            this.pictureBoxC7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC7.Image")));
-            this.pictureBoxC7.Location = new System.Drawing.Point(205, 134);
-            this.pictureBoxC7.Name = "pictureBoxC7";
-            this.pictureBoxC7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC7.TabIndex = 11;
-            this.pictureBoxC7.TabStop = false;
-            // 
-            // pictureBoxD7
-            // 
-            this.pictureBoxD7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD7.Image")));
-            this.pictureBoxD7.Location = new System.Drawing.Point(275, 134);
-            this.pictureBoxD7.Name = "pictureBoxD7";
-            this.pictureBoxD7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD7.TabIndex = 12;
-            this.pictureBoxD7.TabStop = false;
-            // 
-            // pictureBoxE7
-            // 
-            this.pictureBoxE7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE7.Image")));
-            this.pictureBoxE7.Location = new System.Drawing.Point(345, 134);
-            this.pictureBoxE7.Name = "pictureBoxE7";
-            this.pictureBoxE7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE7.TabIndex = 13;
-            this.pictureBoxE7.TabStop = false;
-            // 
-            // pictureBoxF7
-            // 
-            this.pictureBoxF7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF7.Image")));
-            this.pictureBoxF7.Location = new System.Drawing.Point(415, 134);
-            this.pictureBoxF7.Name = "pictureBoxF7";
-            this.pictureBoxF7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF7.TabIndex = 14;
-            this.pictureBoxF7.TabStop = false;
-            // 
-            // pictureBoxG7
-            // 
-            this.pictureBoxG7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG7.Image")));
-            this.pictureBoxG7.Location = new System.Drawing.Point(485, 134);
-            this.pictureBoxG7.Name = "pictureBoxG7";
-            this.pictureBoxG7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG7.TabIndex = 15;
-            this.pictureBoxG7.TabStop = false;
-            // 
-            // pictureBoxH7
-            // 
-            this.pictureBoxH7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH7.Image")));
-            this.pictureBoxH7.Location = new System.Drawing.Point(555, 134);
-            this.pictureBoxH7.Name = "pictureBoxH7";
-            this.pictureBoxH7.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH7.TabIndex = 16;
-            this.pictureBoxH7.TabStop = false;
-            // 
-            // pictureBoxA6
-            // 
-            this.pictureBoxA6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA6.Image")));
-            this.pictureBoxA6.Location = new System.Drawing.Point(65, 204);
-            this.pictureBoxA6.Name = "pictureBoxA6";
-            this.pictureBoxA6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA6.TabIndex = 17;
-            this.pictureBoxA6.TabStop = false;
-            // 
-            // pictureBoxH6
-            // 
-            this.pictureBoxH6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH6.Image")));
-            this.pictureBoxH6.Location = new System.Drawing.Point(555, 204);
-            this.pictureBoxH6.Name = "pictureBoxH6";
-            this.pictureBoxH6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH6.TabIndex = 24;
-            this.pictureBoxH6.TabStop = false;
-            // 
-            // pictureBoxG6
-            // 
-            this.pictureBoxG6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG6.Image")));
-            this.pictureBoxG6.Location = new System.Drawing.Point(485, 204);
-            this.pictureBoxG6.Name = "pictureBoxG6";
-            this.pictureBoxG6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG6.TabIndex = 23;
-            this.pictureBoxG6.TabStop = false;
-            // 
-            // pictureBoxF6
-            // 
-            this.pictureBoxF6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF6.Image")));
-            this.pictureBoxF6.Location = new System.Drawing.Point(415, 204);
-            this.pictureBoxF6.Name = "pictureBoxF6";
-            this.pictureBoxF6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF6.TabIndex = 22;
-            this.pictureBoxF6.TabStop = false;
-            // 
-            // pictureBoxE6
-            // 
-            this.pictureBoxE6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE6.Image")));
-            this.pictureBoxE6.Location = new System.Drawing.Point(345, 204);
-            this.pictureBoxE6.Name = "pictureBoxE6";
-            this.pictureBoxE6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE6.TabIndex = 21;
-            this.pictureBoxE6.TabStop = false;
-            // 
-            // pictureBoxD6
-            // 
-            this.pictureBoxD6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD6.Image")));
-            this.pictureBoxD6.Location = new System.Drawing.Point(275, 204);
-            this.pictureBoxD6.Name = "pictureBoxD6";
-            this.pictureBoxD6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD6.TabIndex = 20;
-            this.pictureBoxD6.TabStop = false;
-            // 
-            // pictureBoxC6
-            // 
-            this.pictureBoxC6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC6.Image")));
-            this.pictureBoxC6.Location = new System.Drawing.Point(205, 204);
-            this.pictureBoxC6.Name = "pictureBoxC6";
-            this.pictureBoxC6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC6.TabIndex = 19;
-            this.pictureBoxC6.TabStop = false;
-            // 
-            // pictureBoxB6
-            // 
-            this.pictureBoxB6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB6.Image")));
-            this.pictureBoxB6.Location = new System.Drawing.Point(135, 204);
-            this.pictureBoxB6.Name = "pictureBoxB6";
-            this.pictureBoxB6.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB6.TabIndex = 18;
-            this.pictureBoxB6.TabStop = false;
-            // 
-            // pictureBoxA5
-            // 
-            this.pictureBoxA5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA5.Image")));
-            this.pictureBoxA5.Location = new System.Drawing.Point(65, 274);
-            this.pictureBoxA5.Name = "pictureBoxA5";
-            this.pictureBoxA5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA5.TabIndex = 25;
-            this.pictureBoxA5.TabStop = false;
-            // 
-            // pictureBoxH5
-            // 
-            this.pictureBoxH5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH5.Image")));
-            this.pictureBoxH5.Location = new System.Drawing.Point(555, 274);
-            this.pictureBoxH5.Name = "pictureBoxH5";
-            this.pictureBoxH5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH5.TabIndex = 32;
-            this.pictureBoxH5.TabStop = false;
-            // 
-            // pictureBoxG5
-            // 
-            this.pictureBoxG5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG5.Image")));
-            this.pictureBoxG5.Location = new System.Drawing.Point(485, 274);
-            this.pictureBoxG5.Name = "pictureBoxG5";
-            this.pictureBoxG5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG5.TabIndex = 31;
-            this.pictureBoxG5.TabStop = false;
-            // 
-            // pictureBoxF5
-            // 
-            this.pictureBoxF5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF5.Image")));
-            this.pictureBoxF5.Location = new System.Drawing.Point(415, 274);
-            this.pictureBoxF5.Name = "pictureBoxF5";
-            this.pictureBoxF5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF5.TabIndex = 30;
-            this.pictureBoxF5.TabStop = false;
-            // 
-            // pictureBoxE5
-            // 
-            this.pictureBoxE5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE5.Image")));
-            this.pictureBoxE5.Location = new System.Drawing.Point(345, 274);
-            this.pictureBoxE5.Name = "pictureBoxE5";
-            this.pictureBoxE5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE5.TabIndex = 29;
-            this.pictureBoxE5.TabStop = false;
-            // 
-            // pictureBoxD5
-            // 
-            this.pictureBoxD5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD5.Image")));
-            this.pictureBoxD5.Location = new System.Drawing.Point(275, 274);
-            this.pictureBoxD5.Name = "pictureBoxD5";
-            this.pictureBoxD5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD5.TabIndex = 28;
-            this.pictureBoxD5.TabStop = false;
-            // 
-            // pictureBoxC5
-            // 
-            this.pictureBoxC5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC5.Image")));
-            this.pictureBoxC5.Location = new System.Drawing.Point(205, 274);
-            this.pictureBoxC5.Name = "pictureBoxC5";
-            this.pictureBoxC5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC5.TabIndex = 27;
-            this.pictureBoxC5.TabStop = false;
-            // 
-            // pictureBoxB5
-            // 
-            this.pictureBoxB5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB5.Image")));
-            this.pictureBoxB5.Location = new System.Drawing.Point(135, 274);
-            this.pictureBoxB5.Name = "pictureBoxB5";
-            this.pictureBoxB5.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB5.TabIndex = 26;
-            this.pictureBoxB5.TabStop = false;
-            // 
-            // pictureBoxH1
-            // 
-            this.pictureBoxH1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH1.Image")));
-            this.pictureBoxH1.Location = new System.Drawing.Point(555, 554);
-            this.pictureBoxH1.Name = "pictureBoxH1";
-            this.pictureBoxH1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH1.TabIndex = 64;
-            this.pictureBoxH1.TabStop = false;
-            // 
-            // pictureBoxG1
-            // 
-            this.pictureBoxG1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG1.Image")));
-            this.pictureBoxG1.Location = new System.Drawing.Point(485, 554);
-            this.pictureBoxG1.Name = "pictureBoxG1";
-            this.pictureBoxG1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG1.TabIndex = 63;
-            this.pictureBoxG1.TabStop = false;
-            // 
-            // pictureBoxF1
-            // 
-            this.pictureBoxF1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF1.Image")));
-            this.pictureBoxF1.Location = new System.Drawing.Point(415, 554);
-            this.pictureBoxF1.Name = "pictureBoxF1";
-            this.pictureBoxF1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF1.TabIndex = 62;
-            this.pictureBoxF1.TabStop = false;
-            // 
-            // pictureBoxE1
-            // 
-            this.pictureBoxE1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE1.Image")));
-            this.pictureBoxE1.Location = new System.Drawing.Point(345, 554);
-            this.pictureBoxE1.Name = "pictureBoxE1";
-            this.pictureBoxE1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE1.TabIndex = 61;
-            this.pictureBoxE1.TabStop = false;
-            // 
-            // pictureBoxD1
-            // 
-            this.pictureBoxD1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD1.Image")));
-            this.pictureBoxD1.Location = new System.Drawing.Point(275, 554);
-            this.pictureBoxD1.Name = "pictureBoxD1";
-            this.pictureBoxD1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD1.TabIndex = 60;
-            this.pictureBoxD1.TabStop = false;
-            // 
-            // pictureBoxC1
-            // 
-            this.pictureBoxC1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC1.Image")));
-            this.pictureBoxC1.Location = new System.Drawing.Point(205, 554);
-            this.pictureBoxC1.Name = "pictureBoxC1";
-            this.pictureBoxC1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC1.TabIndex = 59;
-            this.pictureBoxC1.TabStop = false;
-            // 
-            // pictureBoxB1
-            // 
-            this.pictureBoxB1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB1.Image")));
-            this.pictureBoxB1.Location = new System.Drawing.Point(135, 554);
-            this.pictureBoxB1.Name = "pictureBoxB1";
-            this.pictureBoxB1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB1.TabIndex = 58;
-            this.pictureBoxB1.TabStop = false;
-            // 
-            // pictureBoxA1
-            // 
-            this.pictureBoxA1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA1.Image")));
-            this.pictureBoxA1.Location = new System.Drawing.Point(65, 554);
-            this.pictureBoxA1.Name = "pictureBoxA1";
-            this.pictureBoxA1.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA1.TabIndex = 57;
-            this.pictureBoxA1.TabStop = false;
-            // 
-            // pictureBoxH2
-            // 
-            this.pictureBoxH2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH2.Image")));
-            this.pictureBoxH2.Location = new System.Drawing.Point(555, 484);
-            this.pictureBoxH2.Name = "pictureBoxH2";
-            this.pictureBoxH2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH2.TabIndex = 56;
-            this.pictureBoxH2.TabStop = false;
-            // 
-            // pictureBoxG2
-            // 
-            this.pictureBoxG2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG2.Image")));
-            this.pictureBoxG2.Location = new System.Drawing.Point(485, 484);
-            this.pictureBoxG2.Name = "pictureBoxG2";
-            this.pictureBoxG2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG2.TabIndex = 55;
-            this.pictureBoxG2.TabStop = false;
-            // 
-            // pictureBoxF2
-            // 
-            this.pictureBoxF2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF2.Image")));
-            this.pictureBoxF2.Location = new System.Drawing.Point(415, 484);
-            this.pictureBoxF2.Name = "pictureBoxF2";
-            this.pictureBoxF2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF2.TabIndex = 54;
-            this.pictureBoxF2.TabStop = false;
-            // 
-            // pictureBoxE2
-            // 
-            this.pictureBoxE2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE2.Image")));
-            this.pictureBoxE2.Location = new System.Drawing.Point(345, 484);
-            this.pictureBoxE2.Name = "pictureBoxE2";
-            this.pictureBoxE2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE2.TabIndex = 53;
-            this.pictureBoxE2.TabStop = false;
-            // 
-            // pictureBoxD2
-            // 
-            this.pictureBoxD2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD2.Image")));
-            this.pictureBoxD2.Location = new System.Drawing.Point(275, 484);
-            this.pictureBoxD2.Name = "pictureBoxD2";
-            this.pictureBoxD2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD2.TabIndex = 52;
-            this.pictureBoxD2.TabStop = false;
-            // 
-            // pictureBoxC2
-            // 
-            this.pictureBoxC2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC2.Image")));
-            this.pictureBoxC2.Location = new System.Drawing.Point(205, 484);
-            this.pictureBoxC2.Name = "pictureBoxC2";
-            this.pictureBoxC2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC2.TabIndex = 51;
-            this.pictureBoxC2.TabStop = false;
-            // 
-            // pictureBoxB2
-            // 
-            this.pictureBoxB2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB2.Image")));
-            this.pictureBoxB2.Location = new System.Drawing.Point(135, 484);
-            this.pictureBoxB2.Name = "pictureBoxB2";
-            this.pictureBoxB2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB2.TabIndex = 50;
-            this.pictureBoxB2.TabStop = false;
-            // 
-            // pictureBoxA2
-            // 
-            this.pictureBoxA2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA2.Image")));
-            this.pictureBoxA2.Location = new System.Drawing.Point(65, 484);
-            this.pictureBoxA2.Name = "pictureBoxA2";
-            this.pictureBoxA2.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA2.TabIndex = 49;
-            this.pictureBoxA2.TabStop = false;
-            // 
-            // pictureBoxH3
-            // 
-            this.pictureBoxH3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH3.Image")));
-            this.pictureBoxH3.Location = new System.Drawing.Point(555, 414);
-            this.pictureBoxH3.Name = "pictureBoxH3";
-            this.pictureBoxH3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH3.TabIndex = 48;
-            this.pictureBoxH3.TabStop = false;
-            // 
-            // pictureBoxG3
-            // 
-            this.pictureBoxG3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG3.Image")));
-            this.pictureBoxG3.Location = new System.Drawing.Point(485, 414);
-            this.pictureBoxG3.Name = "pictureBoxG3";
-            this.pictureBoxG3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG3.TabIndex = 47;
-            this.pictureBoxG3.TabStop = false;
-            // 
-            // pictureBoxF3
-            // 
-            this.pictureBoxF3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF3.Image")));
-            this.pictureBoxF3.Location = new System.Drawing.Point(415, 414);
-            this.pictureBoxF3.Name = "pictureBoxF3";
-            this.pictureBoxF3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF3.TabIndex = 46;
-            this.pictureBoxF3.TabStop = false;
-            // 
-            // pictureBoxE3
-            // 
-            this.pictureBoxE3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE3.Image")));
-            this.pictureBoxE3.Location = new System.Drawing.Point(345, 414);
-            this.pictureBoxE3.Name = "pictureBoxE3";
-            this.pictureBoxE3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE3.TabIndex = 45;
-            this.pictureBoxE3.TabStop = false;
-            // 
-            // pictureBoxD3
-            // 
-            this.pictureBoxD3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD3.Image")));
-            this.pictureBoxD3.Location = new System.Drawing.Point(275, 414);
-            this.pictureBoxD3.Name = "pictureBoxD3";
-            this.pictureBoxD3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD3.TabIndex = 44;
-            this.pictureBoxD3.TabStop = false;
-            // 
-            // pictureBoxC3
-            // 
-            this.pictureBoxC3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC3.Image")));
-            this.pictureBoxC3.Location = new System.Drawing.Point(205, 414);
-            this.pictureBoxC3.Name = "pictureBoxC3";
-            this.pictureBoxC3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC3.TabIndex = 43;
-            this.pictureBoxC3.TabStop = false;
-            // 
-            // pictureBoxB3
-            // 
-            this.pictureBoxB3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB3.Image")));
-            this.pictureBoxB3.Location = new System.Drawing.Point(135, 414);
-            this.pictureBoxB3.Name = "pictureBoxB3";
-            this.pictureBoxB3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB3.TabIndex = 42;
-            this.pictureBoxB3.TabStop = false;
-            // 
-            // pictureBoxA3
-            // 
-            this.pictureBoxA3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA3.Image")));
-            this.pictureBoxA3.Location = new System.Drawing.Point(65, 414);
-            this.pictureBoxA3.Name = "pictureBoxA3";
-            this.pictureBoxA3.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA3.TabIndex = 41;
-            this.pictureBoxA3.TabStop = false;
-            // 
-            // pictureBoxH4
-            // 
-            this.pictureBoxH4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxH4.Image")));
-            this.pictureBoxH4.Location = new System.Drawing.Point(555, 344);
-            this.pictureBoxH4.Name = "pictureBoxH4";
-            this.pictureBoxH4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxH4.TabIndex = 40;
-            this.pictureBoxH4.TabStop = false;
-            // 
-            // pictureBoxG4
-            // 
-            this.pictureBoxG4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxG4.Image")));
-            this.pictureBoxG4.Location = new System.Drawing.Point(485, 344);
-            this.pictureBoxG4.Name = "pictureBoxG4";
-            this.pictureBoxG4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxG4.TabIndex = 39;
-            this.pictureBoxG4.TabStop = false;
-            // 
-            // pictureBoxF4
-            // 
-            this.pictureBoxF4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxF4.Image")));
-            this.pictureBoxF4.Location = new System.Drawing.Point(415, 344);
-            this.pictureBoxF4.Name = "pictureBoxF4";
-            this.pictureBoxF4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxF4.TabIndex = 38;
-            this.pictureBoxF4.TabStop = false;
-            // 
-            // pictureBoxE4
-            // 
-            this.pictureBoxE4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxE4.Image")));
-            this.pictureBoxE4.Location = new System.Drawing.Point(345, 344);
-            this.pictureBoxE4.Name = "pictureBoxE4";
-            this.pictureBoxE4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxE4.TabIndex = 37;
-            this.pictureBoxE4.TabStop = false;
-            // 
-            // pictureBoxD4
-            // 
-            this.pictureBoxD4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxD4.Image")));
-            this.pictureBoxD4.Location = new System.Drawing.Point(275, 344);
-            this.pictureBoxD4.Name = "pictureBoxD4";
-            this.pictureBoxD4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxD4.TabIndex = 36;
-            this.pictureBoxD4.TabStop = false;
-            // 
-            // pictureBoxC4
-            // 
-            this.pictureBoxC4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxC4.Image")));
-            this.pictureBoxC4.Location = new System.Drawing.Point(205, 344);
-            this.pictureBoxC4.Name = "pictureBoxC4";
-            this.pictureBoxC4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxC4.TabIndex = 35;
-            this.pictureBoxC4.TabStop = false;
-            // 
-            // pictureBoxB4
-            // 
-            this.pictureBoxB4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxB4.Image")));
-            this.pictureBoxB4.Location = new System.Drawing.Point(135, 344);
-            this.pictureBoxB4.Name = "pictureBoxB4";
-            this.pictureBoxB4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxB4.TabIndex = 34;
-            this.pictureBoxB4.TabStop = false;
-            // 
-            // pictureBoxA4
-            // 
-            this.pictureBoxA4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxA4.Image")));
-            this.pictureBoxA4.Location = new System.Drawing.Point(65, 344);
-            this.pictureBoxA4.Name = "pictureBoxA4";
-            this.pictureBoxA4.Size = new System.Drawing.Size(70, 70);
-            this.pictureBoxA4.TabIndex = 33;
-            this.pictureBoxA4.TabStop = false;
             // 
             // label8
             // 
@@ -775,6 +131,7 @@
             this.label7.Size = new System.Drawing.Size(17, 19);
             this.label7.TabIndex = 66;
             this.label7.Text = "7";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label6
             // 
@@ -785,6 +142,7 @@
             this.label6.Size = new System.Drawing.Size(17, 19);
             this.label6.TabIndex = 67;
             this.label6.Text = "6";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label5
             // 
@@ -795,6 +153,7 @@
             this.label5.Size = new System.Drawing.Size(17, 19);
             this.label5.TabIndex = 68;
             this.label5.Text = "5";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label4
             // 
@@ -805,6 +164,7 @@
             this.label4.Size = new System.Drawing.Size(17, 19);
             this.label4.TabIndex = 69;
             this.label4.Text = "4";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
             // 
@@ -815,6 +175,7 @@
             this.label3.Size = new System.Drawing.Size(17, 19);
             this.label3.TabIndex = 70;
             this.label3.Text = "3";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
@@ -825,6 +186,7 @@
             this.label2.Size = new System.Drawing.Size(17, 19);
             this.label2.TabIndex = 71;
             this.label2.Text = "2";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -835,6 +197,7 @@
             this.label1.Size = new System.Drawing.Size(17, 19);
             this.label1.TabIndex = 72;
             this.label1.Text = "1";
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // labelA
             // 
@@ -845,6 +208,7 @@
             this.labelA.Size = new System.Drawing.Size(17, 19);
             this.labelA.TabIndex = 73;
             this.labelA.Text = "a";
+            this.labelA.Click += new System.EventHandler(this.labelA_Click);
             // 
             // labelB
             // 
@@ -855,6 +219,7 @@
             this.labelB.Size = new System.Drawing.Size(17, 19);
             this.labelB.TabIndex = 74;
             this.labelB.Text = "b";
+            this.labelB.Click += new System.EventHandler(this.labelB_Click);
             // 
             // labelC
             // 
@@ -865,6 +230,7 @@
             this.labelC.Size = new System.Drawing.Size(16, 19);
             this.labelC.TabIndex = 75;
             this.labelC.Text = "c";
+            this.labelC.Click += new System.EventHandler(this.labelC_Click);
             // 
             // labelD
             // 
@@ -875,6 +241,7 @@
             this.labelD.Size = new System.Drawing.Size(17, 19);
             this.labelD.TabIndex = 76;
             this.labelD.Text = "d";
+            this.labelD.Click += new System.EventHandler(this.labelD_Click);
             // 
             // labelE
             // 
@@ -885,6 +252,7 @@
             this.labelE.Size = new System.Drawing.Size(17, 19);
             this.labelE.TabIndex = 77;
             this.labelE.Text = "e";
+            this.labelE.Click += new System.EventHandler(this.labelE_Click);
             // 
             // labelF
             // 
@@ -895,6 +263,7 @@
             this.labelF.Size = new System.Drawing.Size(14, 19);
             this.labelF.TabIndex = 78;
             this.labelF.Text = "f";
+            this.labelF.Click += new System.EventHandler(this.labelF_Click);
             // 
             // labelG
             // 
@@ -905,6 +274,7 @@
             this.labelG.Size = new System.Drawing.Size(17, 19);
             this.labelG.TabIndex = 79;
             this.labelG.Text = "g";
+            this.labelG.Click += new System.EventHandler(this.labelG_Click);
             // 
             // labelH
             // 
@@ -915,32 +285,1133 @@
             this.labelH.Size = new System.Drawing.Size(17, 19);
             this.labelH.TabIndex = 80;
             this.labelH.Text = "h";
+            this.labelH.Click += new System.EventHandler(this.labelH_Click);
             // 
-            // buttonRegularAndDraw
+            // buttonA8
             // 
-            this.buttonRegularAndDraw.Location = new System.Drawing.Point(96, 26);
-            this.buttonRegularAndDraw.Name = "buttonRegularAndDraw";
-            this.buttonRegularAndDraw.Size = new System.Drawing.Size(75, 23);
-            this.buttonRegularAndDraw.TabIndex = 81;
-            this.buttonRegularAndDraw.Text = "Regular";
-            this.buttonRegularAndDraw.UseVisualStyleBackColor = true;
+            this.buttonA8.FlatAppearance.BorderSize = 0;
+            this.buttonA8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonA8.ForeColor = System.Drawing.Color.Black;
+            this.buttonA8.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonA8.Location = new System.Drawing.Point(65, 64);
+            this.buttonA8.Name = "buttonA8";
+            this.buttonA8.Size = new System.Drawing.Size(70, 70);
+            this.buttonA8.TabIndex = 83;
+            this.buttonA8.TabStop = false;
+            this.buttonA8.Text = "♜";
+            this.buttonA8.UseVisualStyleBackColor = true;
+            this.buttonA8.Click += new System.EventHandler(this.buttonA8_Click);
             // 
-            // buttonBlitz
+            // buttonB8
             // 
-            this.buttonBlitz.Location = new System.Drawing.Point(516, 26);
-            this.buttonBlitz.Name = "buttonBlitz";
-            this.buttonBlitz.Size = new System.Drawing.Size(75, 23);
-            this.buttonBlitz.TabIndex = 82;
-            this.buttonBlitz.Text = "Blitz";
-            this.buttonBlitz.UseVisualStyleBackColor = true;
+            this.buttonB8.FlatAppearance.BorderSize = 0;
+            this.buttonB8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonB8.ForeColor = System.Drawing.Color.Black;
+            this.buttonB8.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonB8.Location = new System.Drawing.Point(135, 64);
+            this.buttonB8.Name = "buttonB8";
+            this.buttonB8.Size = new System.Drawing.Size(70, 70);
+            this.buttonB8.TabIndex = 84;
+            this.buttonB8.TabStop = false;
+            this.buttonB8.Text = "♞";
+            this.buttonB8.UseVisualStyleBackColor = true;
+            this.buttonB8.Click += new System.EventHandler(this.buttonB8_Click);
+            // 
+            // buttonD8
+            // 
+            this.buttonD8.FlatAppearance.BorderSize = 0;
+            this.buttonD8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonD8.ForeColor = System.Drawing.Color.Black;
+            this.buttonD8.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonD8.Location = new System.Drawing.Point(275, 64);
+            this.buttonD8.Name = "buttonD8";
+            this.buttonD8.Size = new System.Drawing.Size(70, 70);
+            this.buttonD8.TabIndex = 86;
+            this.buttonD8.TabStop = false;
+            this.buttonD8.Text = "♛";
+            this.buttonD8.UseVisualStyleBackColor = true;
+            this.buttonD8.Click += new System.EventHandler(this.buttonD8_Click);
+            // 
+            // buttonC8
+            // 
+            this.buttonC8.FlatAppearance.BorderSize = 0;
+            this.buttonC8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonC8.ForeColor = System.Drawing.Color.Black;
+            this.buttonC8.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonC8.Location = new System.Drawing.Point(205, 64);
+            this.buttonC8.Name = "buttonC8";
+            this.buttonC8.Size = new System.Drawing.Size(70, 70);
+            this.buttonC8.TabIndex = 85;
+            this.buttonC8.TabStop = false;
+            this.buttonC8.Text = "♝";
+            this.buttonC8.UseVisualStyleBackColor = true;
+            this.buttonC8.Click += new System.EventHandler(this.buttonC8_Click);
+            // 
+            // buttonF8
+            // 
+            this.buttonF8.FlatAppearance.BorderSize = 0;
+            this.buttonF8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonF8.ForeColor = System.Drawing.Color.Black;
+            this.buttonF8.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonF8.Location = new System.Drawing.Point(415, 64);
+            this.buttonF8.Name = "buttonF8";
+            this.buttonF8.Size = new System.Drawing.Size(70, 70);
+            this.buttonF8.TabIndex = 88;
+            this.buttonF8.TabStop = false;
+            this.buttonF8.Text = "♝";
+            this.buttonF8.UseVisualStyleBackColor = true;
+            this.buttonF8.Click += new System.EventHandler(this.buttonF8_Click);
+            // 
+            // buttonE8
+            // 
+            this.buttonE8.FlatAppearance.BorderSize = 0;
+            this.buttonE8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonE8.ForeColor = System.Drawing.Color.Black;
+            this.buttonE8.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonE8.Location = new System.Drawing.Point(345, 64);
+            this.buttonE8.Name = "buttonE8";
+            this.buttonE8.Size = new System.Drawing.Size(70, 70);
+            this.buttonE8.TabIndex = 87;
+            this.buttonE8.TabStop = false;
+            this.buttonE8.Text = "♚";
+            this.buttonE8.UseVisualStyleBackColor = true;
+            this.buttonE8.Click += new System.EventHandler(this.buttonE8_Click);
+            // 
+            // buttonH8
+            // 
+            this.buttonH8.FlatAppearance.BorderSize = 0;
+            this.buttonH8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonH8.ForeColor = System.Drawing.Color.Black;
+            this.buttonH8.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonH8.Location = new System.Drawing.Point(555, 64);
+            this.buttonH8.Name = "buttonH8";
+            this.buttonH8.Size = new System.Drawing.Size(70, 70);
+            this.buttonH8.TabIndex = 90;
+            this.buttonH8.TabStop = false;
+            this.buttonH8.Text = "♜";
+            this.buttonH8.UseVisualStyleBackColor = true;
+            this.buttonH8.Click += new System.EventHandler(this.buttonH8_Click);
+            // 
+            // buttonG8
+            // 
+            this.buttonG8.FlatAppearance.BorderSize = 0;
+            this.buttonG8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG8.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonG8.ForeColor = System.Drawing.Color.Black;
+            this.buttonG8.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonG8.Location = new System.Drawing.Point(485, 64);
+            this.buttonG8.Name = "buttonG8";
+            this.buttonG8.Size = new System.Drawing.Size(70, 70);
+            this.buttonG8.TabIndex = 89;
+            this.buttonG8.TabStop = false;
+            this.buttonG8.Text = "♞";
+            this.buttonG8.UseVisualStyleBackColor = true;
+            this.buttonG8.Click += new System.EventHandler(this.buttonG8_Click);
+            // 
+            // buttonA7
+            // 
+            this.buttonA7.FlatAppearance.BorderSize = 0;
+            this.buttonA7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonA7.ForeColor = System.Drawing.Color.Black;
+            this.buttonA7.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonA7.Location = new System.Drawing.Point(65, 134);
+            this.buttonA7.Name = "buttonA7";
+            this.buttonA7.Size = new System.Drawing.Size(70, 70);
+            this.buttonA7.TabIndex = 91;
+            this.buttonA7.TabStop = false;
+            this.buttonA7.Text = "♟";
+            this.buttonA7.UseVisualStyleBackColor = true;
+            this.buttonA7.Click += new System.EventHandler(this.buttonA7_Click);
+            // 
+            // buttonB7
+            // 
+            this.buttonB7.FlatAppearance.BorderSize = 0;
+            this.buttonB7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonB7.ForeColor = System.Drawing.Color.Black;
+            this.buttonB7.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonB7.Location = new System.Drawing.Point(135, 134);
+            this.buttonB7.Name = "buttonB7";
+            this.buttonB7.Size = new System.Drawing.Size(70, 70);
+            this.buttonB7.TabIndex = 92;
+            this.buttonB7.TabStop = false;
+            this.buttonB7.Text = "♟";
+            this.buttonB7.UseVisualStyleBackColor = true;
+            this.buttonB7.Click += new System.EventHandler(this.buttonB7_Click);
+            // 
+            // buttonC7
+            // 
+            this.buttonC7.FlatAppearance.BorderSize = 0;
+            this.buttonC7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonC7.ForeColor = System.Drawing.Color.Black;
+            this.buttonC7.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonC7.Location = new System.Drawing.Point(205, 134);
+            this.buttonC7.Name = "buttonC7";
+            this.buttonC7.Size = new System.Drawing.Size(70, 70);
+            this.buttonC7.TabIndex = 93;
+            this.buttonC7.TabStop = false;
+            this.buttonC7.Text = "♟";
+            this.buttonC7.UseVisualStyleBackColor = true;
+            this.buttonC7.Click += new System.EventHandler(this.buttonC7_Click);
+            // 
+            // buttonD7
+            // 
+            this.buttonD7.FlatAppearance.BorderSize = 0;
+            this.buttonD7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonD7.ForeColor = System.Drawing.Color.Black;
+            this.buttonD7.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonD7.Location = new System.Drawing.Point(275, 134);
+            this.buttonD7.Name = "buttonD7";
+            this.buttonD7.Size = new System.Drawing.Size(70, 70);
+            this.buttonD7.TabIndex = 94;
+            this.buttonD7.TabStop = false;
+            this.buttonD7.Text = "♟";
+            this.buttonD7.UseVisualStyleBackColor = true;
+            this.buttonD7.Click += new System.EventHandler(this.buttonD7_Click);
+            // 
+            // buttonE7
+            // 
+            this.buttonE7.FlatAppearance.BorderSize = 0;
+            this.buttonE7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonE7.ForeColor = System.Drawing.Color.Black;
+            this.buttonE7.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonE7.Location = new System.Drawing.Point(345, 134);
+            this.buttonE7.Name = "buttonE7";
+            this.buttonE7.Size = new System.Drawing.Size(70, 70);
+            this.buttonE7.TabIndex = 95;
+            this.buttonE7.TabStop = false;
+            this.buttonE7.Text = "♟";
+            this.buttonE7.UseVisualStyleBackColor = true;
+            this.buttonE7.Click += new System.EventHandler(this.buttonE7_Click);
+            // 
+            // buttonF7
+            // 
+            this.buttonF7.FlatAppearance.BorderSize = 0;
+            this.buttonF7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonF7.ForeColor = System.Drawing.Color.Black;
+            this.buttonF7.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonF7.Location = new System.Drawing.Point(415, 134);
+            this.buttonF7.Name = "buttonF7";
+            this.buttonF7.Size = new System.Drawing.Size(70, 70);
+            this.buttonF7.TabIndex = 96;
+            this.buttonF7.TabStop = false;
+            this.buttonF7.Text = "♟";
+            this.buttonF7.UseVisualStyleBackColor = true;
+            this.buttonF7.Click += new System.EventHandler(this.buttonF7_Click);
+            // 
+            // buttonG7
+            // 
+            this.buttonG7.FlatAppearance.BorderSize = 0;
+            this.buttonG7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonG7.ForeColor = System.Drawing.Color.Black;
+            this.buttonG7.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonG7.Location = new System.Drawing.Point(485, 134);
+            this.buttonG7.Name = "buttonG7";
+            this.buttonG7.Size = new System.Drawing.Size(70, 70);
+            this.buttonG7.TabIndex = 97;
+            this.buttonG7.TabStop = false;
+            this.buttonG7.Text = "♟";
+            this.buttonG7.UseVisualStyleBackColor = true;
+            this.buttonG7.Click += new System.EventHandler(this.buttonG7_Click);
+            // 
+            // buttonH7
+            // 
+            this.buttonH7.FlatAppearance.BorderSize = 0;
+            this.buttonH7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH7.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonH7.ForeColor = System.Drawing.Color.Black;
+            this.buttonH7.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonH7.Location = new System.Drawing.Point(555, 134);
+            this.buttonH7.Name = "buttonH7";
+            this.buttonH7.Size = new System.Drawing.Size(70, 70);
+            this.buttonH7.TabIndex = 98;
+            this.buttonH7.TabStop = false;
+            this.buttonH7.Text = "♟";
+            this.buttonH7.UseVisualStyleBackColor = true;
+            this.buttonH7.Click += new System.EventHandler(this.buttonH7_Click);
+            // 
+            // buttonA6
+            // 
+            this.buttonA6.FlatAppearance.BorderSize = 0;
+            this.buttonA6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA6.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonA6.Location = new System.Drawing.Point(65, 204);
+            this.buttonA6.Name = "buttonA6";
+            this.buttonA6.Size = new System.Drawing.Size(70, 70);
+            this.buttonA6.TabIndex = 99;
+            this.buttonA6.TabStop = false;
+            this.buttonA6.UseVisualStyleBackColor = true;
+            this.buttonA6.Click += new System.EventHandler(this.buttonA6_Click);
+            // 
+            // buttonB6
+            // 
+            this.buttonB6.FlatAppearance.BorderSize = 0;
+            this.buttonB6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB6.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonB6.Location = new System.Drawing.Point(135, 204);
+            this.buttonB6.Name = "buttonB6";
+            this.buttonB6.Size = new System.Drawing.Size(70, 70);
+            this.buttonB6.TabIndex = 100;
+            this.buttonB6.TabStop = false;
+            this.buttonB6.UseVisualStyleBackColor = true;
+            this.buttonB6.Click += new System.EventHandler(this.buttonB6_Click);
+            // 
+            // buttonC6
+            // 
+            this.buttonC6.FlatAppearance.BorderSize = 0;
+            this.buttonC6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC6.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonC6.Location = new System.Drawing.Point(205, 204);
+            this.buttonC6.Name = "buttonC6";
+            this.buttonC6.Size = new System.Drawing.Size(70, 70);
+            this.buttonC6.TabIndex = 101;
+            this.buttonC6.TabStop = false;
+            this.buttonC6.UseVisualStyleBackColor = true;
+            this.buttonC6.Click += new System.EventHandler(this.buttonC6_Click);
+            // 
+            // buttonD6
+            // 
+            this.buttonD6.FlatAppearance.BorderSize = 0;
+            this.buttonD6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD6.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonD6.Location = new System.Drawing.Point(275, 204);
+            this.buttonD6.Name = "buttonD6";
+            this.buttonD6.Size = new System.Drawing.Size(70, 70);
+            this.buttonD6.TabIndex = 102;
+            this.buttonD6.TabStop = false;
+            this.buttonD6.UseVisualStyleBackColor = true;
+            this.buttonD6.Click += new System.EventHandler(this.buttonD6_Click);
+            // 
+            // buttonE6
+            // 
+            this.buttonE6.FlatAppearance.BorderSize = 0;
+            this.buttonE6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE6.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonE6.Location = new System.Drawing.Point(345, 204);
+            this.buttonE6.Name = "buttonE6";
+            this.buttonE6.Size = new System.Drawing.Size(70, 70);
+            this.buttonE6.TabIndex = 103;
+            this.buttonE6.TabStop = false;
+            this.buttonE6.UseVisualStyleBackColor = true;
+            this.buttonE6.Click += new System.EventHandler(this.buttonE6_Click);
+            // 
+            // buttonF6
+            // 
+            this.buttonF6.FlatAppearance.BorderSize = 0;
+            this.buttonF6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF6.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonF6.Location = new System.Drawing.Point(415, 204);
+            this.buttonF6.Name = "buttonF6";
+            this.buttonF6.Size = new System.Drawing.Size(70, 70);
+            this.buttonF6.TabIndex = 104;
+            this.buttonF6.TabStop = false;
+            this.buttonF6.UseVisualStyleBackColor = true;
+            this.buttonF6.Click += new System.EventHandler(this.buttonF6_Click);
+            // 
+            // buttonG6
+            // 
+            this.buttonG6.FlatAppearance.BorderSize = 0;
+            this.buttonG6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG6.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonG6.Location = new System.Drawing.Point(485, 204);
+            this.buttonG6.Name = "buttonG6";
+            this.buttonG6.Size = new System.Drawing.Size(70, 70);
+            this.buttonG6.TabIndex = 105;
+            this.buttonG6.TabStop = false;
+            this.buttonG6.UseVisualStyleBackColor = true;
+            this.buttonG6.Click += new System.EventHandler(this.buttonG6_Click);
+            // 
+            // buttonH6
+            // 
+            this.buttonH6.FlatAppearance.BorderSize = 0;
+            this.buttonH6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH6.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonH6.Location = new System.Drawing.Point(555, 204);
+            this.buttonH6.Name = "buttonH6";
+            this.buttonH6.Size = new System.Drawing.Size(70, 70);
+            this.buttonH6.TabIndex = 106;
+            this.buttonH6.TabStop = false;
+            this.buttonH6.UseVisualStyleBackColor = true;
+            this.buttonH6.Click += new System.EventHandler(this.buttonH6_Click);
+            // 
+            // buttonA5
+            // 
+            this.buttonA5.FlatAppearance.BorderSize = 0;
+            this.buttonA5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA5.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonA5.Location = new System.Drawing.Point(65, 274);
+            this.buttonA5.Name = "buttonA5";
+            this.buttonA5.Size = new System.Drawing.Size(70, 70);
+            this.buttonA5.TabIndex = 107;
+            this.buttonA5.TabStop = false;
+            this.buttonA5.UseVisualStyleBackColor = true;
+            this.buttonA5.Click += new System.EventHandler(this.buttonA5_Click);
+            // 
+            // buttonB5
+            // 
+            this.buttonB5.FlatAppearance.BorderSize = 0;
+            this.buttonB5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB5.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonB5.Location = new System.Drawing.Point(135, 274);
+            this.buttonB5.Name = "buttonB5";
+            this.buttonB5.Size = new System.Drawing.Size(70, 70);
+            this.buttonB5.TabIndex = 108;
+            this.buttonB5.TabStop = false;
+            this.buttonB5.UseVisualStyleBackColor = true;
+            this.buttonB5.Click += new System.EventHandler(this.buttonB5_Click);
+            // 
+            // buttonC5
+            // 
+            this.buttonC5.FlatAppearance.BorderSize = 0;
+            this.buttonC5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC5.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonC5.Location = new System.Drawing.Point(205, 274);
+            this.buttonC5.Name = "buttonC5";
+            this.buttonC5.Size = new System.Drawing.Size(70, 70);
+            this.buttonC5.TabIndex = 109;
+            this.buttonC5.TabStop = false;
+            this.buttonC5.UseVisualStyleBackColor = true;
+            this.buttonC5.Click += new System.EventHandler(this.buttonC5_Click);
+            // 
+            // buttonD5
+            // 
+            this.buttonD5.FlatAppearance.BorderSize = 0;
+            this.buttonD5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD5.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonD5.Location = new System.Drawing.Point(275, 274);
+            this.buttonD5.Name = "buttonD5";
+            this.buttonD5.Size = new System.Drawing.Size(70, 70);
+            this.buttonD5.TabIndex = 110;
+            this.buttonD5.TabStop = false;
+            this.buttonD5.UseVisualStyleBackColor = true;
+            this.buttonD5.Click += new System.EventHandler(this.buttonD5_Click);
+            // 
+            // buttonE5
+            // 
+            this.buttonE5.FlatAppearance.BorderSize = 0;
+            this.buttonE5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE5.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonE5.Location = new System.Drawing.Point(345, 274);
+            this.buttonE5.Name = "buttonE5";
+            this.buttonE5.Size = new System.Drawing.Size(70, 70);
+            this.buttonE5.TabIndex = 111;
+            this.buttonE5.TabStop = false;
+            this.buttonE5.UseVisualStyleBackColor = true;
+            this.buttonE5.Click += new System.EventHandler(this.buttonE5_Click);
+            // 
+            // buttonF5
+            // 
+            this.buttonF5.FlatAppearance.BorderSize = 0;
+            this.buttonF5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF5.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonF5.Location = new System.Drawing.Point(415, 274);
+            this.buttonF5.Name = "buttonF5";
+            this.buttonF5.Size = new System.Drawing.Size(70, 70);
+            this.buttonF5.TabIndex = 112;
+            this.buttonF5.TabStop = false;
+            this.buttonF5.UseVisualStyleBackColor = true;
+            this.buttonF5.Click += new System.EventHandler(this.buttonF5_Click);
+            // 
+            // buttonG5
+            // 
+            this.buttonG5.FlatAppearance.BorderSize = 0;
+            this.buttonG5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG5.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonG5.Location = new System.Drawing.Point(485, 274);
+            this.buttonG5.Name = "buttonG5";
+            this.buttonG5.Size = new System.Drawing.Size(70, 70);
+            this.buttonG5.TabIndex = 113;
+            this.buttonG5.TabStop = false;
+            this.buttonG5.UseVisualStyleBackColor = true;
+            this.buttonG5.Click += new System.EventHandler(this.buttonG5_Click);
+            // 
+            // buttonH5
+            // 
+            this.buttonH5.FlatAppearance.BorderSize = 0;
+            this.buttonH5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH5.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonH5.Location = new System.Drawing.Point(555, 274);
+            this.buttonH5.Name = "buttonH5";
+            this.buttonH5.Size = new System.Drawing.Size(70, 70);
+            this.buttonH5.TabIndex = 114;
+            this.buttonH5.TabStop = false;
+            this.buttonH5.UseVisualStyleBackColor = true;
+            this.buttonH5.Click += new System.EventHandler(this.buttonH5_Click);
+            // 
+            // buttonA4
+            // 
+            this.buttonA4.FlatAppearance.BorderSize = 0;
+            this.buttonA4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA4.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonA4.Location = new System.Drawing.Point(65, 344);
+            this.buttonA4.Name = "buttonA4";
+            this.buttonA4.Size = new System.Drawing.Size(70, 70);
+            this.buttonA4.TabIndex = 115;
+            this.buttonA4.TabStop = false;
+            this.buttonA4.UseVisualStyleBackColor = true;
+            this.buttonA4.Click += new System.EventHandler(this.buttonA4_Click);
+            // 
+            // buttonB4
+            // 
+            this.buttonB4.FlatAppearance.BorderSize = 0;
+            this.buttonB4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB4.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonB4.Location = new System.Drawing.Point(135, 344);
+            this.buttonB4.Name = "buttonB4";
+            this.buttonB4.Size = new System.Drawing.Size(70, 70);
+            this.buttonB4.TabIndex = 116;
+            this.buttonB4.TabStop = false;
+            this.buttonB4.UseVisualStyleBackColor = true;
+            this.buttonB4.Click += new System.EventHandler(this.buttonB4_Click);
+            // 
+            // buttonC4
+            // 
+            this.buttonC4.FlatAppearance.BorderSize = 0;
+            this.buttonC4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC4.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonC4.Location = new System.Drawing.Point(205, 344);
+            this.buttonC4.Name = "buttonC4";
+            this.buttonC4.Size = new System.Drawing.Size(70, 70);
+            this.buttonC4.TabIndex = 117;
+            this.buttonC4.TabStop = false;
+            this.buttonC4.UseVisualStyleBackColor = true;
+            this.buttonC4.Click += new System.EventHandler(this.buttonC4_Click);
+            // 
+            // buttonD4
+            // 
+            this.buttonD4.FlatAppearance.BorderSize = 0;
+            this.buttonD4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD4.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonD4.Location = new System.Drawing.Point(275, 344);
+            this.buttonD4.Name = "buttonD4";
+            this.buttonD4.Size = new System.Drawing.Size(70, 70);
+            this.buttonD4.TabIndex = 118;
+            this.buttonD4.TabStop = false;
+            this.buttonD4.UseVisualStyleBackColor = true;
+            this.buttonD4.Click += new System.EventHandler(this.buttonD4_Click);
+            // 
+            // buttonE4
+            // 
+            this.buttonE4.FlatAppearance.BorderSize = 0;
+            this.buttonE4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE4.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonE4.Location = new System.Drawing.Point(345, 344);
+            this.buttonE4.Name = "buttonE4";
+            this.buttonE4.Size = new System.Drawing.Size(70, 70);
+            this.buttonE4.TabIndex = 119;
+            this.buttonE4.TabStop = false;
+            this.buttonE4.UseVisualStyleBackColor = true;
+            this.buttonE4.Click += new System.EventHandler(this.buttonE4_Click);
+            // 
+            // buttonF4
+            // 
+            this.buttonF4.FlatAppearance.BorderSize = 0;
+            this.buttonF4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF4.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonF4.Location = new System.Drawing.Point(415, 344);
+            this.buttonF4.Name = "buttonF4";
+            this.buttonF4.Size = new System.Drawing.Size(70, 70);
+            this.buttonF4.TabIndex = 120;
+            this.buttonF4.TabStop = false;
+            this.buttonF4.UseVisualStyleBackColor = true;
+            this.buttonF4.Click += new System.EventHandler(this.buttonF4_Click);
+            // 
+            // buttonG4
+            // 
+            this.buttonG4.FlatAppearance.BorderSize = 0;
+            this.buttonG4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG4.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonG4.Location = new System.Drawing.Point(485, 344);
+            this.buttonG4.Name = "buttonG4";
+            this.buttonG4.Size = new System.Drawing.Size(70, 70);
+            this.buttonG4.TabIndex = 121;
+            this.buttonG4.TabStop = false;
+            this.buttonG4.UseVisualStyleBackColor = true;
+            this.buttonG4.Click += new System.EventHandler(this.buttonG4_Click);
+            // 
+            // buttonH4
+            // 
+            this.buttonH4.FlatAppearance.BorderSize = 0;
+            this.buttonH4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH4.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonH4.Location = new System.Drawing.Point(555, 344);
+            this.buttonH4.Name = "buttonH4";
+            this.buttonH4.Size = new System.Drawing.Size(70, 70);
+            this.buttonH4.TabIndex = 122;
+            this.buttonH4.TabStop = false;
+            this.buttonH4.UseVisualStyleBackColor = true;
+            this.buttonH4.Click += new System.EventHandler(this.buttonH4_Click);
+            // 
+            // buttonA3
+            // 
+            this.buttonA3.FlatAppearance.BorderSize = 0;
+            this.buttonA3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA3.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonA3.Location = new System.Drawing.Point(65, 414);
+            this.buttonA3.Name = "buttonA3";
+            this.buttonA3.Size = new System.Drawing.Size(70, 70);
+            this.buttonA3.TabIndex = 123;
+            this.buttonA3.TabStop = false;
+            this.buttonA3.UseVisualStyleBackColor = true;
+            this.buttonA3.Click += new System.EventHandler(this.buttonA3_Click);
+            // 
+            // buttonB3
+            // 
+            this.buttonB3.FlatAppearance.BorderSize = 0;
+            this.buttonB3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB3.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonB3.Location = new System.Drawing.Point(135, 414);
+            this.buttonB3.Name = "buttonB3";
+            this.buttonB3.Size = new System.Drawing.Size(70, 70);
+            this.buttonB3.TabIndex = 124;
+            this.buttonB3.TabStop = false;
+            this.buttonB3.UseVisualStyleBackColor = true;
+            this.buttonB3.Click += new System.EventHandler(this.buttonB3_Click);
+            // 
+            // buttonC3
+            // 
+            this.buttonC3.FlatAppearance.BorderSize = 0;
+            this.buttonC3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC3.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonC3.Location = new System.Drawing.Point(205, 414);
+            this.buttonC3.Name = "buttonC3";
+            this.buttonC3.Size = new System.Drawing.Size(70, 70);
+            this.buttonC3.TabIndex = 125;
+            this.buttonC3.TabStop = false;
+            this.buttonC3.UseVisualStyleBackColor = true;
+            this.buttonC3.Click += new System.EventHandler(this.buttonC3_Click);
+            // 
+            // buttonD3
+            // 
+            this.buttonD3.FlatAppearance.BorderSize = 0;
+            this.buttonD3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD3.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonD3.Location = new System.Drawing.Point(275, 414);
+            this.buttonD3.Name = "buttonD3";
+            this.buttonD3.Size = new System.Drawing.Size(70, 70);
+            this.buttonD3.TabIndex = 126;
+            this.buttonD3.TabStop = false;
+            this.buttonD3.UseVisualStyleBackColor = true;
+            this.buttonD3.Click += new System.EventHandler(this.buttonD3_Click);
+            // 
+            // buttonE3
+            // 
+            this.buttonE3.FlatAppearance.BorderSize = 0;
+            this.buttonE3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE3.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonE3.Location = new System.Drawing.Point(345, 414);
+            this.buttonE3.Name = "buttonE3";
+            this.buttonE3.Size = new System.Drawing.Size(70, 70);
+            this.buttonE3.TabIndex = 127;
+            this.buttonE3.TabStop = false;
+            this.buttonE3.UseVisualStyleBackColor = true;
+            this.buttonE3.Click += new System.EventHandler(this.buttonE3_Click);
+            // 
+            // buttonF3
+            // 
+            this.buttonF3.FlatAppearance.BorderSize = 0;
+            this.buttonF3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF3.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonF3.Location = new System.Drawing.Point(415, 414);
+            this.buttonF3.Name = "buttonF3";
+            this.buttonF3.Size = new System.Drawing.Size(70, 70);
+            this.buttonF3.TabIndex = 128;
+            this.buttonF3.TabStop = false;
+            this.buttonF3.UseVisualStyleBackColor = true;
+            this.buttonF3.Click += new System.EventHandler(this.buttonF3_Click);
+            // 
+            // buttonG3
+            // 
+            this.buttonG3.FlatAppearance.BorderSize = 0;
+            this.buttonG3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG3.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonG3.Location = new System.Drawing.Point(485, 414);
+            this.buttonG3.Name = "buttonG3";
+            this.buttonG3.Size = new System.Drawing.Size(70, 70);
+            this.buttonG3.TabIndex = 129;
+            this.buttonG3.TabStop = false;
+            this.buttonG3.UseVisualStyleBackColor = true;
+            this.buttonG3.Click += new System.EventHandler(this.buttonG3_Click);
+            // 
+            // buttonH3
+            // 
+            this.buttonH3.FlatAppearance.BorderSize = 0;
+            this.buttonH3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH3.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonH3.Location = new System.Drawing.Point(555, 414);
+            this.buttonH3.Name = "buttonH3";
+            this.buttonH3.Size = new System.Drawing.Size(70, 70);
+            this.buttonH3.TabIndex = 130;
+            this.buttonH3.TabStop = false;
+            this.buttonH3.UseVisualStyleBackColor = true;
+            this.buttonH3.Click += new System.EventHandler(this.buttonH3_Click);
+            // 
+            // buttonA2
+            // 
+            this.buttonA2.FlatAppearance.BorderSize = 0;
+            this.buttonA2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonA2.ForeColor = System.Drawing.Color.White;
+            this.buttonA2.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonA2.Location = new System.Drawing.Point(65, 484);
+            this.buttonA2.Name = "buttonA2";
+            this.buttonA2.Size = new System.Drawing.Size(70, 70);
+            this.buttonA2.TabIndex = 131;
+            this.buttonA2.TabStop = false;
+            this.buttonA2.Text = "♟";
+            this.buttonA2.UseVisualStyleBackColor = true;
+            this.buttonA2.Click += new System.EventHandler(this.buttonA2_Click);
+            // 
+            // buttonB2
+            // 
+            this.buttonB2.FlatAppearance.BorderSize = 0;
+            this.buttonB2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonB2.ForeColor = System.Drawing.Color.White;
+            this.buttonB2.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonB2.Location = new System.Drawing.Point(135, 484);
+            this.buttonB2.Name = "buttonB2";
+            this.buttonB2.Size = new System.Drawing.Size(70, 70);
+            this.buttonB2.TabIndex = 132;
+            this.buttonB2.TabStop = false;
+            this.buttonB2.Text = "♟";
+            this.buttonB2.UseVisualStyleBackColor = true;
+            this.buttonB2.Click += new System.EventHandler(this.buttonB2_Click);
+            // 
+            // buttonC2
+            // 
+            this.buttonC2.FlatAppearance.BorderSize = 0;
+            this.buttonC2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonC2.ForeColor = System.Drawing.Color.White;
+            this.buttonC2.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonC2.Location = new System.Drawing.Point(205, 484);
+            this.buttonC2.Name = "buttonC2";
+            this.buttonC2.Size = new System.Drawing.Size(70, 70);
+            this.buttonC2.TabIndex = 133;
+            this.buttonC2.TabStop = false;
+            this.buttonC2.Text = "♟";
+            this.buttonC2.UseVisualStyleBackColor = true;
+            this.buttonC2.Click += new System.EventHandler(this.buttonC2_Click);
+            // 
+            // buttonD2
+            // 
+            this.buttonD2.FlatAppearance.BorderSize = 0;
+            this.buttonD2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonD2.ForeColor = System.Drawing.Color.White;
+            this.buttonD2.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonD2.Location = new System.Drawing.Point(275, 484);
+            this.buttonD2.Name = "buttonD2";
+            this.buttonD2.Size = new System.Drawing.Size(70, 70);
+            this.buttonD2.TabIndex = 134;
+            this.buttonD2.TabStop = false;
+            this.buttonD2.Text = "♟";
+            this.buttonD2.UseVisualStyleBackColor = true;
+            this.buttonD2.Click += new System.EventHandler(this.buttonD2_Click);
+            // 
+            // buttonE2
+            // 
+            this.buttonE2.FlatAppearance.BorderSize = 0;
+            this.buttonE2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonE2.ForeColor = System.Drawing.Color.White;
+            this.buttonE2.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonE2.Location = new System.Drawing.Point(345, 484);
+            this.buttonE2.Name = "buttonE2";
+            this.buttonE2.Size = new System.Drawing.Size(70, 70);
+            this.buttonE2.TabIndex = 135;
+            this.buttonE2.TabStop = false;
+            this.buttonE2.Text = "♟";
+            this.buttonE2.UseVisualStyleBackColor = true;
+            this.buttonE2.Click += new System.EventHandler(this.buttonE2_Click);
+            // 
+            // buttonF2
+            // 
+            this.buttonF2.FlatAppearance.BorderSize = 0;
+            this.buttonF2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonF2.ForeColor = System.Drawing.Color.White;
+            this.buttonF2.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonF2.Location = new System.Drawing.Point(415, 484);
+            this.buttonF2.Name = "buttonF2";
+            this.buttonF2.Size = new System.Drawing.Size(70, 70);
+            this.buttonF2.TabIndex = 136;
+            this.buttonF2.TabStop = false;
+            this.buttonF2.Text = "♟";
+            this.buttonF2.UseVisualStyleBackColor = true;
+            this.buttonF2.Click += new System.EventHandler(this.buttonF2_Click);
+            // 
+            // buttonG2
+            // 
+            this.buttonG2.FlatAppearance.BorderSize = 0;
+            this.buttonG2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonG2.ForeColor = System.Drawing.Color.White;
+            this.buttonG2.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonG2.Location = new System.Drawing.Point(485, 484);
+            this.buttonG2.Name = "buttonG2";
+            this.buttonG2.Size = new System.Drawing.Size(70, 70);
+            this.buttonG2.TabIndex = 137;
+            this.buttonG2.TabStop = false;
+            this.buttonG2.Text = "♟";
+            this.buttonG2.UseVisualStyleBackColor = true;
+            this.buttonG2.Click += new System.EventHandler(this.buttonG2_Click);
+            // 
+            // buttonH2
+            // 
+            this.buttonH2.FlatAppearance.BorderSize = 0;
+            this.buttonH2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonH2.ForeColor = System.Drawing.Color.White;
+            this.buttonH2.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonH2.Location = new System.Drawing.Point(555, 484);
+            this.buttonH2.Name = "buttonH2";
+            this.buttonH2.Size = new System.Drawing.Size(70, 70);
+            this.buttonH2.TabIndex = 138;
+            this.buttonH2.TabStop = false;
+            this.buttonH2.Text = "♟";
+            this.buttonH2.UseVisualStyleBackColor = true;
+            this.buttonH2.Click += new System.EventHandler(this.buttonH2_Click);
+            // 
+            // buttonA1
+            // 
+            this.buttonA1.FlatAppearance.BorderSize = 0;
+            this.buttonA1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonA1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonA1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonA1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonA1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonA1.ForeColor = System.Drawing.Color.White;
+            this.buttonA1.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonA1.Location = new System.Drawing.Point(65, 554);
+            this.buttonA1.Name = "buttonA1";
+            this.buttonA1.Size = new System.Drawing.Size(70, 70);
+            this.buttonA1.TabIndex = 139;
+            this.buttonA1.TabStop = false;
+            this.buttonA1.Text = "♜";
+            this.buttonA1.UseVisualStyleBackColor = true;
+            this.buttonA1.Click += new System.EventHandler(this.buttonA1_Click);
+            // 
+            // buttonB1
+            // 
+            this.buttonB1.FlatAppearance.BorderSize = 0;
+            this.buttonB1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonB1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonB1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonB1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonB1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonB1.ForeColor = System.Drawing.Color.White;
+            this.buttonB1.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonB1.Location = new System.Drawing.Point(135, 554);
+            this.buttonB1.Name = "buttonB1";
+            this.buttonB1.Size = new System.Drawing.Size(70, 70);
+            this.buttonB1.TabIndex = 140;
+            this.buttonB1.TabStop = false;
+            this.buttonB1.Text = "♞";
+            this.buttonB1.UseVisualStyleBackColor = true;
+            this.buttonB1.Click += new System.EventHandler(this.buttonB1_Click);
+            // 
+            // buttonC1
+            // 
+            this.buttonC1.FlatAppearance.BorderSize = 0;
+            this.buttonC1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonC1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonC1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonC1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonC1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonC1.ForeColor = System.Drawing.Color.White;
+            this.buttonC1.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonC1.Location = new System.Drawing.Point(205, 554);
+            this.buttonC1.Name = "buttonC1";
+            this.buttonC1.Size = new System.Drawing.Size(70, 70);
+            this.buttonC1.TabIndex = 141;
+            this.buttonC1.TabStop = false;
+            this.buttonC1.Text = "♝";
+            this.buttonC1.UseVisualStyleBackColor = true;
+            this.buttonC1.Click += new System.EventHandler(this.buttonC1_Click);
+            // 
+            // buttonD1
+            // 
+            this.buttonD1.FlatAppearance.BorderSize = 0;
+            this.buttonD1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonD1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonD1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonD1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonD1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonD1.ForeColor = System.Drawing.Color.White;
+            this.buttonD1.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonD1.Location = new System.Drawing.Point(275, 554);
+            this.buttonD1.Name = "buttonD1";
+            this.buttonD1.Size = new System.Drawing.Size(70, 70);
+            this.buttonD1.TabIndex = 142;
+            this.buttonD1.TabStop = false;
+            this.buttonD1.Text = "♛";
+            this.buttonD1.UseVisualStyleBackColor = true;
+            this.buttonD1.Click += new System.EventHandler(this.buttonD1_Click);
+            // 
+            // buttonE1
+            // 
+            this.buttonE1.FlatAppearance.BorderSize = 0;
+            this.buttonE1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonE1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonE1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonE1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonE1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonE1.ForeColor = System.Drawing.Color.White;
+            this.buttonE1.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonE1.Location = new System.Drawing.Point(345, 554);
+            this.buttonE1.Name = "buttonE1";
+            this.buttonE1.Size = new System.Drawing.Size(70, 70);
+            this.buttonE1.TabIndex = 143;
+            this.buttonE1.TabStop = false;
+            this.buttonE1.Text = "♚";
+            this.buttonE1.UseVisualStyleBackColor = true;
+            this.buttonE1.Click += new System.EventHandler(this.buttonE1_Click);
+            // 
+            // buttonF1
+            // 
+            this.buttonF1.FlatAppearance.BorderSize = 0;
+            this.buttonF1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonF1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonF1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonF1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonF1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonF1.ForeColor = System.Drawing.Color.White;
+            this.buttonF1.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonF1.Location = new System.Drawing.Point(415, 554);
+            this.buttonF1.Name = "buttonF1";
+            this.buttonF1.Size = new System.Drawing.Size(70, 70);
+            this.buttonF1.TabIndex = 144;
+            this.buttonF1.TabStop = false;
+            this.buttonF1.Text = "♝";
+            this.buttonF1.UseVisualStyleBackColor = true;
+            this.buttonF1.Click += new System.EventHandler(this.buttonF1_Click);
+            // 
+            // buttonG1
+            // 
+            this.buttonG1.FlatAppearance.BorderSize = 0;
+            this.buttonG1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonG1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonG1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonG1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonG1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonG1.ForeColor = System.Drawing.Color.White;
+            this.buttonG1.Image = global::Chess.Properties.Resources.brownTile;
+            this.buttonG1.Location = new System.Drawing.Point(485, 554);
+            this.buttonG1.Name = "buttonG1";
+            this.buttonG1.Size = new System.Drawing.Size(70, 70);
+            this.buttonG1.TabIndex = 145;
+            this.buttonG1.TabStop = false;
+            this.buttonG1.Text = "♞";
+            this.buttonG1.UseVisualStyleBackColor = true;
+            this.buttonG1.Click += new System.EventHandler(this.buttonG1_Click);
+            // 
+            // buttonH1
+            // 
+            this.buttonH1.FlatAppearance.BorderSize = 0;
+            this.buttonH1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.buttonH1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.buttonH1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonH1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonH1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonH1.ForeColor = System.Drawing.Color.White;
+            this.buttonH1.Image = global::Chess.Properties.Resources.whiteTile21;
+            this.buttonH1.Location = new System.Drawing.Point(555, 554);
+            this.buttonH1.Name = "buttonH1";
+            this.buttonH1.Size = new System.Drawing.Size(70, 70);
+            this.buttonH1.TabIndex = 146;
+            this.buttonH1.TabStop = false;
+            this.buttonH1.Text = "♜";
+            this.buttonH1.UseVisualStyleBackColor = true;
+            this.buttonH1.Click += new System.EventHandler(this.buttonH1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(705, 692);
-            this.Controls.Add(this.buttonBlitz);
-            this.Controls.Add(this.buttonRegularAndDraw);
             this.Controls.Add(this.labelH);
             this.Controls.Add(this.labelG);
             this.Controls.Add(this.labelF);
@@ -957,208 +1428,80 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.pictureBoxH1);
-            this.Controls.Add(this.pictureBoxG1);
-            this.Controls.Add(this.pictureBoxF1);
-            this.Controls.Add(this.pictureBoxE1);
-            this.Controls.Add(this.pictureBoxD1);
-            this.Controls.Add(this.pictureBoxC1);
-            this.Controls.Add(this.pictureBoxB1);
-            this.Controls.Add(this.pictureBoxA1);
-            this.Controls.Add(this.pictureBoxH2);
-            this.Controls.Add(this.pictureBoxG2);
-            this.Controls.Add(this.pictureBoxF2);
-            this.Controls.Add(this.pictureBoxE2);
-            this.Controls.Add(this.pictureBoxD2);
-            this.Controls.Add(this.pictureBoxC2);
-            this.Controls.Add(this.pictureBoxB2);
-            this.Controls.Add(this.pictureBoxA2);
-            this.Controls.Add(this.pictureBoxH3);
-            this.Controls.Add(this.pictureBoxG3);
-            this.Controls.Add(this.pictureBoxF3);
-            this.Controls.Add(this.pictureBoxE3);
-            this.Controls.Add(this.pictureBoxD3);
-            this.Controls.Add(this.pictureBoxC3);
-            this.Controls.Add(this.pictureBoxB3);
-            this.Controls.Add(this.pictureBoxA3);
-            this.Controls.Add(this.pictureBoxH4);
-            this.Controls.Add(this.pictureBoxG4);
-            this.Controls.Add(this.pictureBoxF4);
-            this.Controls.Add(this.pictureBoxE4);
-            this.Controls.Add(this.pictureBoxD4);
-            this.Controls.Add(this.pictureBoxC4);
-            this.Controls.Add(this.pictureBoxB4);
-            this.Controls.Add(this.pictureBoxA4);
-            this.Controls.Add(this.pictureBoxH5);
-            this.Controls.Add(this.pictureBoxG5);
-            this.Controls.Add(this.pictureBoxF5);
-            this.Controls.Add(this.pictureBoxE5);
-            this.Controls.Add(this.pictureBoxD5);
-            this.Controls.Add(this.pictureBoxC5);
-            this.Controls.Add(this.pictureBoxB5);
-            this.Controls.Add(this.pictureBoxA5);
-            this.Controls.Add(this.pictureBoxH6);
-            this.Controls.Add(this.pictureBoxG6);
-            this.Controls.Add(this.pictureBoxF6);
-            this.Controls.Add(this.pictureBoxE6);
-            this.Controls.Add(this.pictureBoxD6);
-            this.Controls.Add(this.pictureBoxC6);
-            this.Controls.Add(this.pictureBoxB6);
-            this.Controls.Add(this.pictureBoxA6);
-            this.Controls.Add(this.pictureBoxH7);
-            this.Controls.Add(this.pictureBoxG7);
-            this.Controls.Add(this.pictureBoxF7);
-            this.Controls.Add(this.pictureBoxE7);
-            this.Controls.Add(this.pictureBoxD7);
-            this.Controls.Add(this.pictureBoxC7);
-            this.Controls.Add(this.pictureBoxB7);
-            this.Controls.Add(this.pictureBoxA7);
-            this.Controls.Add(this.pictureBoxH8);
-            this.Controls.Add(this.pictureBoxG8);
-            this.Controls.Add(this.pictureBoxF8);
-            this.Controls.Add(this.pictureBoxE8);
-            this.Controls.Add(this.pictureBoxD8);
-            this.Controls.Add(this.pictureBoxC8);
-            this.Controls.Add(this.pictureBoxB8);
-            this.Controls.Add(this.pictureBoxA8);
+            this.Controls.Add(this.buttonA8);
+            this.Controls.Add(this.buttonB8);
+            this.Controls.Add(this.buttonC8);
+            this.Controls.Add(this.buttonD8);
+            this.Controls.Add(this.buttonE8);
+            this.Controls.Add(this.buttonF8);
+            this.Controls.Add(this.buttonG8);
+            this.Controls.Add(this.buttonH8);
+            this.Controls.Add(this.buttonA7);
+            this.Controls.Add(this.buttonB7);
+            this.Controls.Add(this.buttonC7);
+            this.Controls.Add(this.buttonD7);
+            this.Controls.Add(this.buttonE7);
+            this.Controls.Add(this.buttonF7);
+            this.Controls.Add(this.buttonG7);
+            this.Controls.Add(this.buttonH7);
+            this.Controls.Add(this.buttonB6);
+            this.Controls.Add(this.buttonC6);
+            this.Controls.Add(this.buttonD6);
+            this.Controls.Add(this.buttonE6);
+            this.Controls.Add(this.buttonF6);
+            this.Controls.Add(this.buttonG6);
+            this.Controls.Add(this.buttonA6);
+            this.Controls.Add(this.buttonH6);
+            this.Controls.Add(this.buttonA5);
+            this.Controls.Add(this.buttonB5);
+            this.Controls.Add(this.buttonC5);
+            this.Controls.Add(this.buttonD5);
+            this.Controls.Add(this.buttonE5);
+            this.Controls.Add(this.buttonF5);
+            this.Controls.Add(this.buttonG5);
+            this.Controls.Add(this.buttonH5);
+            this.Controls.Add(this.buttonA4);
+            this.Controls.Add(this.buttonB4);
+            this.Controls.Add(this.buttonC4);
+            this.Controls.Add(this.buttonD4);
+            this.Controls.Add(this.buttonE4);
+            this.Controls.Add(this.buttonF4);
+            this.Controls.Add(this.buttonG4);
+            this.Controls.Add(this.buttonH4);
+            this.Controls.Add(this.buttonA3);
+            this.Controls.Add(this.buttonB3);
+            this.Controls.Add(this.buttonC3);
+            this.Controls.Add(this.buttonD3);
+            this.Controls.Add(this.buttonE3);
+            this.Controls.Add(this.buttonF3);
+            this.Controls.Add(this.buttonG3);
+            this.Controls.Add(this.buttonH3);
+            this.Controls.Add(this.buttonA2);
+            this.Controls.Add(this.buttonB2);
+            this.Controls.Add(this.buttonC2);
+            this.Controls.Add(this.buttonD2);
+            this.Controls.Add(this.buttonE2);
+            this.Controls.Add(this.buttonF2);
+            this.Controls.Add(this.buttonG2);
+            this.Controls.Add(this.buttonH2);
+            this.Controls.Add(this.buttonA1);
+            this.Controls.Add(this.buttonB1);
+            this.Controls.Add(this.buttonC1);
+            this.Controls.Add(this.buttonD1);
+            this.Controls.Add(this.buttonE1);
+            this.Controls.Add(this.buttonF1);
+            this.Controls.Add(this.buttonG1);
+            this.Controls.Add(this.buttonH1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Chess";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxH4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxG4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxF4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxE4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxD4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxC4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxB4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxA4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.PictureBox pictureBoxA8;
-        private System.Windows.Forms.PictureBox pictureBoxB8;
-        private System.Windows.Forms.PictureBox pictureBoxC8;
-        private System.Windows.Forms.PictureBox pictureBoxD8;
-        private System.Windows.Forms.PictureBox pictureBoxH8;
-        private System.Windows.Forms.PictureBox pictureBoxG8;
-        private System.Windows.Forms.PictureBox pictureBoxF8;
-        private System.Windows.Forms.PictureBox pictureBoxE8;
-        private System.Windows.Forms.PictureBox pictureBoxA7;
-        private System.Windows.Forms.PictureBox pictureBoxB7;
-        private System.Windows.Forms.PictureBox pictureBoxC7;
-        private System.Windows.Forms.PictureBox pictureBoxD7;
-        private System.Windows.Forms.PictureBox pictureBoxE7;
-        private System.Windows.Forms.PictureBox pictureBoxF7;
-        private System.Windows.Forms.PictureBox pictureBoxG7;
-        private System.Windows.Forms.PictureBox pictureBoxH7;
-        private System.Windows.Forms.PictureBox pictureBoxA6;
-        private System.Windows.Forms.PictureBox pictureBoxH6;
-        private System.Windows.Forms.PictureBox pictureBoxG6;
-        private System.Windows.Forms.PictureBox pictureBoxF6;
-        private System.Windows.Forms.PictureBox pictureBoxE6;
-        private System.Windows.Forms.PictureBox pictureBoxD6;
-        private System.Windows.Forms.PictureBox pictureBoxC6;
-        private System.Windows.Forms.PictureBox pictureBoxB6;
-        private System.Windows.Forms.PictureBox pictureBoxA5;
-        private System.Windows.Forms.PictureBox pictureBoxH5;
-        private System.Windows.Forms.PictureBox pictureBoxG5;
-        private System.Windows.Forms.PictureBox pictureBoxF5;
-        private System.Windows.Forms.PictureBox pictureBoxE5;
-        private System.Windows.Forms.PictureBox pictureBoxD5;
-        private System.Windows.Forms.PictureBox pictureBoxC5;
-        private System.Windows.Forms.PictureBox pictureBoxB5;
-        private System.Windows.Forms.PictureBox pictureBoxH1;
-        private System.Windows.Forms.PictureBox pictureBoxG1;
-        private System.Windows.Forms.PictureBox pictureBoxF1;
-        private System.Windows.Forms.PictureBox pictureBoxE1;
-        private System.Windows.Forms.PictureBox pictureBoxD1;
-        private System.Windows.Forms.PictureBox pictureBoxC1;
-        private System.Windows.Forms.PictureBox pictureBoxB1;
-        private System.Windows.Forms.PictureBox pictureBoxA1;
-        private System.Windows.Forms.PictureBox pictureBoxH2;
-        private System.Windows.Forms.PictureBox pictureBoxG2;
-        private System.Windows.Forms.PictureBox pictureBoxF2;
-        private System.Windows.Forms.PictureBox pictureBoxE2;
-        private System.Windows.Forms.PictureBox pictureBoxD2;
-        private System.Windows.Forms.PictureBox pictureBoxC2;
-        private System.Windows.Forms.PictureBox pictureBoxB2;
-        private System.Windows.Forms.PictureBox pictureBoxA2;
-        private System.Windows.Forms.PictureBox pictureBoxH3;
-        private System.Windows.Forms.PictureBox pictureBoxG3;
-        private System.Windows.Forms.PictureBox pictureBoxF3;
-        private System.Windows.Forms.PictureBox pictureBoxE3;
-        private System.Windows.Forms.PictureBox pictureBoxD3;
-        private System.Windows.Forms.PictureBox pictureBoxC3;
-        private System.Windows.Forms.PictureBox pictureBoxB3;
-        private System.Windows.Forms.PictureBox pictureBoxA3;
-        private System.Windows.Forms.PictureBox pictureBoxH4;
-        private System.Windows.Forms.PictureBox pictureBoxG4;
-        private System.Windows.Forms.PictureBox pictureBoxF4;
-        private System.Windows.Forms.PictureBox pictureBoxE4;
-        private System.Windows.Forms.PictureBox pictureBoxD4;
-        private System.Windows.Forms.PictureBox pictureBoxC4;
-        private System.Windows.Forms.PictureBox pictureBoxB4;
-        private System.Windows.Forms.PictureBox pictureBoxA4;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
@@ -1175,8 +1518,70 @@
         private System.Windows.Forms.Label labelF;
         private System.Windows.Forms.Label labelG;
         private System.Windows.Forms.Label labelH;
-        private System.Windows.Forms.Button buttonRegularAndDraw;
-        private System.Windows.Forms.Button buttonBlitz;
+        private System.Windows.Forms.Button buttonA8;
+        private System.Windows.Forms.Button buttonB8;
+        private System.Windows.Forms.Button buttonD8;
+        private System.Windows.Forms.Button buttonC8;
+        private System.Windows.Forms.Button buttonF8;
+        private System.Windows.Forms.Button buttonE8;
+        private System.Windows.Forms.Button buttonH8;
+        private System.Windows.Forms.Button buttonG8;
+        private System.Windows.Forms.Button buttonA7;
+        private System.Windows.Forms.Button buttonB7;
+        private System.Windows.Forms.Button buttonC7;
+        private System.Windows.Forms.Button buttonD7;
+        private System.Windows.Forms.Button buttonE7;
+        private System.Windows.Forms.Button buttonF7;
+        private System.Windows.Forms.Button buttonG7;
+        private System.Windows.Forms.Button buttonH7;
+        private System.Windows.Forms.Button buttonA6;
+        private System.Windows.Forms.Button buttonB6;
+        private System.Windows.Forms.Button buttonC6;
+        private System.Windows.Forms.Button buttonD6;
+        private System.Windows.Forms.Button buttonE6;
+        private System.Windows.Forms.Button buttonF6;
+        private System.Windows.Forms.Button buttonG6;
+        private System.Windows.Forms.Button buttonH6;
+        private System.Windows.Forms.Button buttonA5;
+        private System.Windows.Forms.Button buttonB5;
+        private System.Windows.Forms.Button buttonC5;
+        private System.Windows.Forms.Button buttonD5;
+        private System.Windows.Forms.Button buttonE5;
+        private System.Windows.Forms.Button buttonF5;
+        private System.Windows.Forms.Button buttonG5;
+        private System.Windows.Forms.Button buttonH5;
+        private System.Windows.Forms.Button buttonA4;
+        private System.Windows.Forms.Button buttonB4;
+        private System.Windows.Forms.Button buttonC4;
+        private System.Windows.Forms.Button buttonD4;
+        private System.Windows.Forms.Button buttonE4;
+        private System.Windows.Forms.Button buttonF4;
+        private System.Windows.Forms.Button buttonG4;
+        private System.Windows.Forms.Button buttonH4;
+        private System.Windows.Forms.Button buttonA3;
+        private System.Windows.Forms.Button buttonB3;
+        private System.Windows.Forms.Button buttonC3;
+        private System.Windows.Forms.Button buttonD3;
+        private System.Windows.Forms.Button buttonE3;
+        private System.Windows.Forms.Button buttonF3;
+        private System.Windows.Forms.Button buttonG3;
+        private System.Windows.Forms.Button buttonH3;
+        private System.Windows.Forms.Button buttonA2;
+        private System.Windows.Forms.Button buttonB2;
+        private System.Windows.Forms.Button buttonC2;
+        private System.Windows.Forms.Button buttonD2;
+        private System.Windows.Forms.Button buttonE2;
+        private System.Windows.Forms.Button buttonF2;
+        private System.Windows.Forms.Button buttonG2;
+        private System.Windows.Forms.Button buttonH2;
+        private System.Windows.Forms.Button buttonA1;
+        private System.Windows.Forms.Button buttonB1;
+        private System.Windows.Forms.Button buttonC1;
+        private System.Windows.Forms.Button buttonD1;
+        private System.Windows.Forms.Button buttonE1;
+        private System.Windows.Forms.Button buttonF1;
+        private System.Windows.Forms.Button buttonG1;
+        private System.Windows.Forms.Button buttonH1;
     }
 }
 
