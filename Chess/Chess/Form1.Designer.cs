@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -115,6 +116,8 @@
             this.player1Timer = new System.Windows.Forms.Label();
             this.comboBoxPawnPromotion = new System.Windows.Forms.ComboBox();
             this.labelPawnPromotion = new System.Windows.Forms.Label();
+            this.timerPlayer1 = new System.Windows.Forms.Timer(this.components);
+            this.timerPlayer2 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // label8
@@ -1663,6 +1666,8 @@
         private System.Windows.Forms.Label player1Timer;
         private System.Windows.Forms.ComboBox comboBoxPawnPromotion;
         private System.Windows.Forms.Label labelPawnPromotion;
+        private System.Windows.Forms.Timer timerPlayer1;
+        private System.Windows.Forms.Timer timerPlayer2;
     }
 }
 
