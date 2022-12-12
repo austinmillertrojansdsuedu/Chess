@@ -436,5 +436,15 @@ namespace Chess
         {
 
         }
+
+        private void buttonRegular_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonBlitz_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

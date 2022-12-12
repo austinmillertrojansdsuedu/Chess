@@ -109,6 +109,12 @@
             this.buttonF1 = new System.Windows.Forms.Button();
             this.buttonG1 = new System.Windows.Forms.Button();
             this.buttonH1 = new System.Windows.Forms.Button();
+            this.buttonRegular = new System.Windows.Forms.Button();
+            this.buttonBlitz = new System.Windows.Forms.Button();
+            this.player2Timer = new System.Windows.Forms.Label();
+            this.player1Timer = new System.Windows.Forms.Label();
+            this.comboBoxPawnPromotion = new System.Windows.Forms.ComboBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label8
@@ -289,7 +295,7 @@
             // 
             // buttonA8
             // 
-            this.buttonA8.FlatAppearance.BorderSize = 0;
+            this.buttonA8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -308,7 +314,7 @@
             // 
             // buttonB8
             // 
-            this.buttonB8.FlatAppearance.BorderSize = 0;
+            this.buttonB8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -327,7 +333,7 @@
             // 
             // buttonD8
             // 
-            this.buttonD8.FlatAppearance.BorderSize = 0;
+            this.buttonD8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -346,7 +352,7 @@
             // 
             // buttonC8
             // 
-            this.buttonC8.FlatAppearance.BorderSize = 0;
+            this.buttonC8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -365,7 +371,7 @@
             // 
             // buttonF8
             // 
-            this.buttonF8.FlatAppearance.BorderSize = 0;
+            this.buttonF8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -384,7 +390,7 @@
             // 
             // buttonE8
             // 
-            this.buttonE8.FlatAppearance.BorderSize = 0;
+            this.buttonE8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -403,7 +409,7 @@
             // 
             // buttonH8
             // 
-            this.buttonH8.FlatAppearance.BorderSize = 0;
+            this.buttonH8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -422,7 +428,7 @@
             // 
             // buttonG8
             // 
-            this.buttonG8.FlatAppearance.BorderSize = 0;
+            this.buttonG8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -441,7 +447,7 @@
             // 
             // buttonA7
             // 
-            this.buttonA7.FlatAppearance.BorderSize = 0;
+            this.buttonA7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -460,7 +466,7 @@
             // 
             // buttonB7
             // 
-            this.buttonB7.FlatAppearance.BorderSize = 0;
+            this.buttonB7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -479,7 +485,7 @@
             // 
             // buttonC7
             // 
-            this.buttonC7.FlatAppearance.BorderSize = 0;
+            this.buttonC7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -498,7 +504,7 @@
             // 
             // buttonD7
             // 
-            this.buttonD7.FlatAppearance.BorderSize = 0;
+            this.buttonD7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -517,7 +523,7 @@
             // 
             // buttonE7
             // 
-            this.buttonE7.FlatAppearance.BorderSize = 0;
+            this.buttonE7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -536,7 +542,7 @@
             // 
             // buttonF7
             // 
-            this.buttonF7.FlatAppearance.BorderSize = 0;
+            this.buttonF7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -555,7 +561,7 @@
             // 
             // buttonG7
             // 
-            this.buttonG7.FlatAppearance.BorderSize = 0;
+            this.buttonG7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -574,7 +580,7 @@
             // 
             // buttonH7
             // 
-            this.buttonH7.FlatAppearance.BorderSize = 0;
+            this.buttonH7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -593,7 +599,7 @@
             // 
             // buttonA6
             // 
-            this.buttonA6.FlatAppearance.BorderSize = 0;
+            this.buttonA6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -609,7 +615,7 @@
             // 
             // buttonB6
             // 
-            this.buttonB6.FlatAppearance.BorderSize = 0;
+            this.buttonB6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -625,7 +631,7 @@
             // 
             // buttonC6
             // 
-            this.buttonC6.FlatAppearance.BorderSize = 0;
+            this.buttonC6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -641,7 +647,7 @@
             // 
             // buttonD6
             // 
-            this.buttonD6.FlatAppearance.BorderSize = 0;
+            this.buttonD6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -657,7 +663,7 @@
             // 
             // buttonE6
             // 
-            this.buttonE6.FlatAppearance.BorderSize = 0;
+            this.buttonE6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -673,7 +679,7 @@
             // 
             // buttonF6
             // 
-            this.buttonF6.FlatAppearance.BorderSize = 0;
+            this.buttonF6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -689,7 +695,7 @@
             // 
             // buttonG6
             // 
-            this.buttonG6.FlatAppearance.BorderSize = 0;
+            this.buttonG6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -705,7 +711,7 @@
             // 
             // buttonH6
             // 
-            this.buttonH6.FlatAppearance.BorderSize = 0;
+            this.buttonH6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -721,7 +727,7 @@
             // 
             // buttonA5
             // 
-            this.buttonA5.FlatAppearance.BorderSize = 0;
+            this.buttonA5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -737,7 +743,7 @@
             // 
             // buttonB5
             // 
-            this.buttonB5.FlatAppearance.BorderSize = 0;
+            this.buttonB5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -753,7 +759,7 @@
             // 
             // buttonC5
             // 
-            this.buttonC5.FlatAppearance.BorderSize = 0;
+            this.buttonC5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -769,7 +775,7 @@
             // 
             // buttonD5
             // 
-            this.buttonD5.FlatAppearance.BorderSize = 0;
+            this.buttonD5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -785,7 +791,7 @@
             // 
             // buttonE5
             // 
-            this.buttonE5.FlatAppearance.BorderSize = 0;
+            this.buttonE5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -801,7 +807,7 @@
             // 
             // buttonF5
             // 
-            this.buttonF5.FlatAppearance.BorderSize = 0;
+            this.buttonF5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -817,7 +823,7 @@
             // 
             // buttonG5
             // 
-            this.buttonG5.FlatAppearance.BorderSize = 0;
+            this.buttonG5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -833,7 +839,7 @@
             // 
             // buttonH5
             // 
-            this.buttonH5.FlatAppearance.BorderSize = 0;
+            this.buttonH5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -849,7 +855,7 @@
             // 
             // buttonA4
             // 
-            this.buttonA4.FlatAppearance.BorderSize = 0;
+            this.buttonA4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -865,7 +871,7 @@
             // 
             // buttonB4
             // 
-            this.buttonB4.FlatAppearance.BorderSize = 0;
+            this.buttonB4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -881,7 +887,7 @@
             // 
             // buttonC4
             // 
-            this.buttonC4.FlatAppearance.BorderSize = 0;
+            this.buttonC4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -897,7 +903,7 @@
             // 
             // buttonD4
             // 
-            this.buttonD4.FlatAppearance.BorderSize = 0;
+            this.buttonD4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -913,7 +919,7 @@
             // 
             // buttonE4
             // 
-            this.buttonE4.FlatAppearance.BorderSize = 0;
+            this.buttonE4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -929,7 +935,7 @@
             // 
             // buttonF4
             // 
-            this.buttonF4.FlatAppearance.BorderSize = 0;
+            this.buttonF4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -945,7 +951,7 @@
             // 
             // buttonG4
             // 
-            this.buttonG4.FlatAppearance.BorderSize = 0;
+            this.buttonG4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -961,7 +967,7 @@
             // 
             // buttonH4
             // 
-            this.buttonH4.FlatAppearance.BorderSize = 0;
+            this.buttonH4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -977,7 +983,7 @@
             // 
             // buttonA3
             // 
-            this.buttonA3.FlatAppearance.BorderSize = 0;
+            this.buttonA3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -993,7 +999,7 @@
             // 
             // buttonB3
             // 
-            this.buttonB3.FlatAppearance.BorderSize = 0;
+            this.buttonB3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1009,7 +1015,7 @@
             // 
             // buttonC3
             // 
-            this.buttonC3.FlatAppearance.BorderSize = 0;
+            this.buttonC3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1025,7 +1031,7 @@
             // 
             // buttonD3
             // 
-            this.buttonD3.FlatAppearance.BorderSize = 0;
+            this.buttonD3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1041,7 +1047,7 @@
             // 
             // buttonE3
             // 
-            this.buttonE3.FlatAppearance.BorderSize = 0;
+            this.buttonE3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1057,7 +1063,7 @@
             // 
             // buttonF3
             // 
-            this.buttonF3.FlatAppearance.BorderSize = 0;
+            this.buttonF3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1073,7 +1079,7 @@
             // 
             // buttonG3
             // 
-            this.buttonG3.FlatAppearance.BorderSize = 0;
+            this.buttonG3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1089,7 +1095,7 @@
             // 
             // buttonH3
             // 
-            this.buttonH3.FlatAppearance.BorderSize = 0;
+            this.buttonH3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1105,7 +1111,7 @@
             // 
             // buttonA2
             // 
-            this.buttonA2.FlatAppearance.BorderSize = 0;
+            this.buttonA2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1124,7 +1130,7 @@
             // 
             // buttonB2
             // 
-            this.buttonB2.FlatAppearance.BorderSize = 0;
+            this.buttonB2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1143,7 +1149,7 @@
             // 
             // buttonC2
             // 
-            this.buttonC2.FlatAppearance.BorderSize = 0;
+            this.buttonC2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1162,7 +1168,7 @@
             // 
             // buttonD2
             // 
-            this.buttonD2.FlatAppearance.BorderSize = 0;
+            this.buttonD2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1181,7 +1187,7 @@
             // 
             // buttonE2
             // 
-            this.buttonE2.FlatAppearance.BorderSize = 0;
+            this.buttonE2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1200,7 +1206,7 @@
             // 
             // buttonF2
             // 
-            this.buttonF2.FlatAppearance.BorderSize = 0;
+            this.buttonF2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1219,7 +1225,7 @@
             // 
             // buttonG2
             // 
-            this.buttonG2.FlatAppearance.BorderSize = 0;
+            this.buttonG2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1238,7 +1244,7 @@
             // 
             // buttonH2
             // 
-            this.buttonH2.FlatAppearance.BorderSize = 0;
+            this.buttonH2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1257,7 +1263,7 @@
             // 
             // buttonA1
             // 
-            this.buttonA1.FlatAppearance.BorderSize = 0;
+            this.buttonA1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonA1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonA1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonA1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1276,7 +1282,7 @@
             // 
             // buttonB1
             // 
-            this.buttonB1.FlatAppearance.BorderSize = 0;
+            this.buttonB1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonB1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonB1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonB1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1295,7 +1301,7 @@
             // 
             // buttonC1
             // 
-            this.buttonC1.FlatAppearance.BorderSize = 0;
+            this.buttonC1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonC1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonC1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonC1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1314,7 +1320,7 @@
             // 
             // buttonD1
             // 
-            this.buttonD1.FlatAppearance.BorderSize = 0;
+            this.buttonD1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonD1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonD1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonD1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1333,7 +1339,7 @@
             // 
             // buttonE1
             // 
-            this.buttonE1.FlatAppearance.BorderSize = 0;
+            this.buttonE1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonE1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonE1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonE1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1352,7 +1358,7 @@
             // 
             // buttonF1
             // 
-            this.buttonF1.FlatAppearance.BorderSize = 0;
+            this.buttonF1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonF1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonF1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonF1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1371,7 +1377,7 @@
             // 
             // buttonG1
             // 
-            this.buttonG1.FlatAppearance.BorderSize = 0;
+            this.buttonG1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonG1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonG1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonG1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1390,7 +1396,7 @@
             // 
             // buttonH1
             // 
-            this.buttonH1.FlatAppearance.BorderSize = 0;
+            this.buttonH1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.buttonH1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
             this.buttonH1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.buttonH1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -1407,11 +1413,80 @@
             this.buttonH1.UseVisualStyleBackColor = true;
             this.buttonH1.Click += new System.EventHandler(this.buttonH1_Click);
             // 
+            // buttonRegular
+            // 
+            this.buttonRegular.Location = new System.Drawing.Point(65, 12);
+            this.buttonRegular.Name = "buttonRegular";
+            this.buttonRegular.Size = new System.Drawing.Size(75, 23);
+            this.buttonRegular.TabIndex = 147;
+            this.buttonRegular.Text = "Regular";
+            this.buttonRegular.UseVisualStyleBackColor = true;
+            this.buttonRegular.Click += new System.EventHandler(this.buttonRegular_Click);
+            // 
+            // buttonBlitz
+            // 
+            this.buttonBlitz.Location = new System.Drawing.Point(550, 12);
+            this.buttonBlitz.Name = "buttonBlitz";
+            this.buttonBlitz.Size = new System.Drawing.Size(75, 23);
+            this.buttonBlitz.TabIndex = 148;
+            this.buttonBlitz.Text = "Blitz";
+            this.buttonBlitz.UseVisualStyleBackColor = true;
+            this.buttonBlitz.Click += new System.EventHandler(this.buttonBlitz_Click);
+            // 
+            // player2Timer
+            // 
+            this.player2Timer.AutoSize = true;
+            this.player2Timer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.player2Timer.Location = new System.Drawing.Point(639, 64);
+            this.player2Timer.Name = "player2Timer";
+            this.player2Timer.Size = new System.Drawing.Size(54, 20);
+            this.player2Timer.TabIndex = 149;
+            this.player2Timer.Text = "10:00";
+            // 
+            // player1Timer
+            // 
+            this.player1Timer.AutoSize = true;
+            this.player1Timer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.player1Timer.Location = new System.Drawing.Point(639, 604);
+            this.player1Timer.Name = "player1Timer";
+            this.player1Timer.Size = new System.Drawing.Size(54, 20);
+            this.player1Timer.TabIndex = 150;
+            this.player1Timer.Text = "10:00";
+            // 
+            // comboBoxPawnPromotion
+            // 
+            this.comboBoxPawnPromotion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxPawnPromotion.FormattingEnabled = true;
+            this.comboBoxPawnPromotion.Items.AddRange(new object[] {
+            "Rook",
+            "Knight",
+            "Bishop",
+            "Queen"});
+            this.comboBoxPawnPromotion.Location = new System.Drawing.Point(323, 686);
+            this.comboBoxPawnPromotion.Name = "comboBoxPawnPromotion";
+            this.comboBoxPawnPromotion.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxPawnPromotion.TabIndex = 151;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(232, 689);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(87, 13);
+            this.label9.TabIndex = 152;
+            this.label9.Text = "Pawn Promotion:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(705, 692);
+            this.ClientSize = new System.Drawing.Size(705, 786);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.comboBoxPawnPromotion);
+            this.Controls.Add(this.player1Timer);
+            this.Controls.Add(this.player2Timer);
+            this.Controls.Add(this.buttonBlitz);
+            this.Controls.Add(this.buttonRegular);
             this.Controls.Add(this.labelH);
             this.Controls.Add(this.labelG);
             this.Controls.Add(this.labelF);
@@ -1582,6 +1657,12 @@
         private System.Windows.Forms.Button buttonF1;
         private System.Windows.Forms.Button buttonG1;
         private System.Windows.Forms.Button buttonH1;
+        private System.Windows.Forms.Button buttonRegular;
+        private System.Windows.Forms.Button buttonBlitz;
+        private System.Windows.Forms.Label player2Timer;
+        private System.Windows.Forms.Label player1Timer;
+        private System.Windows.Forms.ComboBox comboBoxPawnPromotion;
+        private System.Windows.Forms.Label label9;
     }
 }
 
