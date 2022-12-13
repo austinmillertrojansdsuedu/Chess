@@ -1423,6 +1423,7 @@
             this.buttonRegular.Name = "buttonRegular";
             this.buttonRegular.Size = new System.Drawing.Size(75, 23);
             this.buttonRegular.TabIndex = 147;
+            this.buttonRegular.TabStop = false;
             this.buttonRegular.Text = "Regular";
             this.buttonRegular.UseVisualStyleBackColor = true;
             this.buttonRegular.Click += new System.EventHandler(this.buttonRegular_Click);
@@ -1433,6 +1434,7 @@
             this.buttonBlitz.Name = "buttonBlitz";
             this.buttonBlitz.Size = new System.Drawing.Size(75, 23);
             this.buttonBlitz.TabIndex = 148;
+            this.buttonBlitz.TabStop = false;
             this.buttonBlitz.Text = "Blitz";
             this.buttonBlitz.UseVisualStyleBackColor = true;
             this.buttonBlitz.Click += new System.EventHandler(this.buttonBlitz_Click);
@@ -1470,6 +1472,7 @@
             this.comboBoxPawnPromotion.Name = "comboBoxPawnPromotion";
             this.comboBoxPawnPromotion.Size = new System.Drawing.Size(140, 21);
             this.comboBoxPawnPromotion.TabIndex = 151;
+            this.comboBoxPawnPromotion.TabStop = false;
             // 
             // labelPawnPromotion
             // 
@@ -1486,6 +1489,7 @@
             this.buttonDraw.Name = "buttonDraw";
             this.buttonDraw.Size = new System.Drawing.Size(75, 23);
             this.buttonDraw.TabIndex = 153;
+            this.buttonDraw.TabStop = false;
             this.buttonDraw.Text = "Draw";
             this.buttonDraw.UseVisualStyleBackColor = true;
             // 
