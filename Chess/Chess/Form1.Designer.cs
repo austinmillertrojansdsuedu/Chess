@@ -118,6 +118,7 @@
             this.labelPawnPromotion = new System.Windows.Forms.Label();
             this.timerPlayer1 = new System.Windows.Forms.Timer(this.components);
             this.timerPlayer2 = new System.Windows.Forms.Timer(this.components);
+            this.buttonDraw = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label8
@@ -1465,25 +1466,35 @@
             "Knight",
             "Bishop",
             "Queen"});
-            this.comboBoxPawnPromotion.Location = new System.Drawing.Point(323, 686);
+            this.comboBoxPawnPromotion.Location = new System.Drawing.Point(275, 679);
             this.comboBoxPawnPromotion.Name = "comboBoxPawnPromotion";
-            this.comboBoxPawnPromotion.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxPawnPromotion.Size = new System.Drawing.Size(140, 21);
             this.comboBoxPawnPromotion.TabIndex = 151;
             // 
             // labelPawnPromotion
             // 
             this.labelPawnPromotion.AutoSize = true;
-            this.labelPawnPromotion.Location = new System.Drawing.Point(232, 689);
+            this.labelPawnPromotion.Location = new System.Drawing.Point(184, 682);
             this.labelPawnPromotion.Name = "labelPawnPromotion";
             this.labelPawnPromotion.Size = new System.Drawing.Size(87, 13);
             this.labelPawnPromotion.TabIndex = 152;
             this.labelPawnPromotion.Text = "Pawn Promotion:";
+            // 
+            // buttonDraw
+            // 
+            this.buttonDraw.Location = new System.Drawing.Point(306, 12);
+            this.buttonDraw.Name = "buttonDraw";
+            this.buttonDraw.Size = new System.Drawing.Size(75, 23);
+            this.buttonDraw.TabIndex = 153;
+            this.buttonDraw.Text = "Draw";
+            this.buttonDraw.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(705, 786);
+            this.Controls.Add(this.buttonDraw);
             this.Controls.Add(this.labelPawnPromotion);
             this.Controls.Add(this.comboBoxPawnPromotion);
             this.Controls.Add(this.player1Timer);
@@ -1668,6 +1679,7 @@
         private System.Windows.Forms.Label labelPawnPromotion;
         private System.Windows.Forms.Timer timerPlayer1;
         private System.Windows.Forms.Timer timerPlayer2;
+        private System.Windows.Forms.Button buttonDraw;
     }
 }
 
